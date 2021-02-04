@@ -4,7 +4,6 @@
     fixed
     color="white"
     elevate-on-scroll
-    
     style="box-shadow: 0 2px 6px 0 rgba(0,0,0,.12), inset  0 -1px 0 0 #dadce0"
   >
     <v-app-bar-nav-icon
@@ -24,7 +23,7 @@
           class="shrink mr-2"
           contain
           :src="require('@/assets/img/logo.png')"
-          width="45"
+          width="35"
         />
       </router-link>
     </div>
@@ -32,11 +31,9 @@
       <router-link
         to="/"
         class="google-font grey--text text--darken-2"
-        style="text-decoration: none; font-size: 55%"
+        style="text-decoration: none; font-size: 100%"
         >
-        <p class="my-n1" style="color:#80868b;padding-top:1px">Chrome</p>
-        <p class="my-n1">Dev Summit</p>
-        <p class="my-n1">Extended</p>        
+        IWD India 2021
         </router-link
       >
     </v-toolbar-title>
@@ -60,6 +57,10 @@
         >{{ link.text }}</v-tab
       >
     </v-tabs>
+    <v-btn rounded depressed class="mx-3" color="#4285f4" dark>
+      <v-icon left>mdi-account-circle-outline</v-icon>
+      Register
+    </v-btn>
     <PushNotification />
     <v-btn
       aria-label="Share Button"
