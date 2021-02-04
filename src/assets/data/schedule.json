@@ -1,0 +1,109 @@
+[
+  {
+    "day": "1",
+    "date": "Dates",
+    "schedule": [
+      {
+        "startTime": "02:00",
+        "endTime": "02:05",
+        "session": 507
+      },
+      {
+        "startTime": "02:05",
+        "endTime": "02:35",
+        "session": 505
+      },
+      {
+        "startTime": "02:45",
+        "endTime": "03:15",
+        "session": 501
+      },
+      {
+        "startTime": "03:15",
+        "endTime": "03:30",
+        "session": 508
+      },
+      {
+        "startTime": "03:30",
+        "endTime": "04:00",
+        "session": 504
+      },
+      {
+        "startTime": "04:00",
+        "endTime": "04:30",
+        "session": 502
+      },
+      {
+        "startTime": "04:30",
+        "endTime": "04:45",
+        "session": 508
+      },
+      {
+        "startTime": "04:45",
+        "endTime": "05:30",
+        "session": 506
+      },
+      {
+        "startTime": "05:30",
+        "endTime": "06:00",
+        "session": 503
+      },
+      {
+        "startTime": "06:00",
+        "endTime": "06:15",
+        "session": 509
+      }
+    ]
+  },
+  {
+    "day": "2",
+    "date": "Dates",
+    "schedule": [
+      {
+        "startTime": "03:00",
+        "endTime": "03:30",
+        "session": 517
+      },
+      {
+        "startTime": "03:30",
+        "endTime": "04:10",
+        "session": 511
+      },
+      {
+        "startTime": "04:15",
+        "endTime": "04:35",
+        "session": 513
+      },
+      {
+        "startTime": "04:35",
+        "endTime": "04:50",
+        "session": 514
+      },
+      {
+        "startTime": "04:50",
+        "endTime": "05:00",
+        "session": 506
+      },
+      {
+        "startTime": "05:00",
+        "endTime": "05:30",
+        "session": 512
+      },
+      {
+        "startTime": "05:30",
+        "endTime": "05:50",
+        "session": 515
+      },
+      {
+        "startTime": "06:00",
+        "endTime": "06:10",
+        "session": 518
+      },
+      {
+        "startTime": "06:15",
+        "endTime": "06:30",
+        "session": 519
+      }
+    ]
+  }
+]

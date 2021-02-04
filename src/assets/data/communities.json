@@ -1,0 +1,36 @@
+[{
+        "name": "GDG Jalandhar",
+        "link": "https://gdgjalandhar.com",
+        "image": "gdgjalandhar.png"
+    },
+    {
+        "name": "DSC Chitkara University",
+        "link": "https://dsc.community.dev/chitkara-university-punjab/",
+        "image": "dscchitkara.png"
+    },
+    {
+        "name": "DSC Chandigarh University",
+        "link": "https://dsc.community.dev/chandigarh-university/",
+        "image": "dsccu.png"
+    },
+    {
+        "name": "DSC UIET Punjab",
+        "link": "https://dsc.community.dev/university-institute-of-engineering-technology-panjab-university/",
+        "image": "dscuiet.png"
+    },
+    {
+        "name": "DSC Chandigarh Group of Colleges",
+        "link": "https://dsc.community.dev/chandigarh-group-of-colleges/",
+        "image": "dsccgc.png"
+    },
+    {
+        "name": "DSC Thapar Institute of Engineering and Technology",
+        "link": "https://dsc.community.dev/thapar-institute-of-engineering-and-technology/",
+        "image": "dscthapar.png"
+    },
+    {
+        "name": "DSC Lovely Professional University",
+        "link": "https://dsc.community.dev/lovely-professional-university/",
+        "image": "dsclpu.png"
+    }
+]

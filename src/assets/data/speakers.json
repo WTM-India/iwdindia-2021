@@ -1,0 +1,137 @@
+[
+  {
+    "id": "101",
+    "name": "Saurabh Rajpal",
+    "company": {
+      "designation": "Sr. Web Ecosystem Consultant",
+      "name": "Google"
+    },
+    "image": "saurabh.jpg",
+    "bio": "Self proclaimed #Gru of #Webinion! Working as a Sr. Web Ecosystem Consultant @ Google with a mission to make web better for the ecosystem. Loves to talk about web performance, PWA, project FUGU (aka web capabilities) and anything that matters to Chrome users!",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/imsaurabhrajpal/",
+      "twitter": "https://twitter.com/imsaurabhrajpal"
+    },
+    "sessionId": [501]
+  },
+  {
+    "id": "102",
+    "name": "Shidhin Cr",
+    "company": {
+      "name": "Google Developer Expert, Web",
+      "designation": "Engineering Lead"
+    },
+    "image": "shidin.jpg",
+    "bio": "Shidhin is a FrontEnd Engineering Lead. He is also a Google Developer Expert in Web Technologies. He is passionate about latest web technologies and find every chance to move the web forward. These days, he focus more on web performance and speed tools.",
+    "social": {
+      "twitter": "https://twitter.com/shidhincr",
+      "linkedin": ""
+    },
+    "sessionId": [502]
+  },
+  {
+    "id": "103",
+    "name": "Bharat Agarwal",
+    "company": {
+      "name": "Full Stack Developer",
+      "designation": ""
+    },
+    "image": "bharat.jpg",
+    "bio": "Bharat is a Full stack developer who loves to Develop tools, Playing with Software and their Security is his passion. He is also an active contributor at GDG-X Github organization where he is actively working in Project Aura.",
+    "social": {
+      "twitter": "https://twitter.com/bharatagsrwal",
+      "linkedin": ""
+    },
+    "sessionId": [503]
+  },
+  {
+    "id": "104",
+    "name": "Aayush Arora",
+    "company": {
+      "name": "FilterPixel",
+      "designation": "Co-Founder"
+    },
+    "image": "aayush.jpg",
+    "bio": "Aayush is the Founder and CEO of FilterPixel & Google Developer Expert, thriving to innovate frontend with accessible Interfaces. An innovation strategist and Massachusetts Institute of Technology Entrepreneurship graduate, he brings 5+ years of experience in Web Development, Accessibility with his expertise in Angular Framework. Since, 3+ years, he has mentored around 1 lakh students across the globe for Udacity under Google Scholarship programs and 20+ startups under Pluralsight. Aayush has always been a prominent voice for FOSSASIA during GSoC and has been contributing continuously to the growth of the communities such as FOSSASIA, NASA, and CloudCV. ",
+    "social": {
+      "twitter": "https://twitter.com/angularboy",
+      "linkedin": ""
+    },
+    "sessionId": [504]
+  },
+  {
+    "id": "105",
+    "name": "Paul Kinlan",
+    "company": {
+      "name": "Google",
+      "designation": "Lead for Web and Chrome Developer Relations Team"
+    },
+    "image": "paul.jpg",
+    "bio": "Lead for Web and Chrome Developer Relations @ Google",
+    "social": {
+      "twitter": "https://twitter.com/Paul_Kinlan",
+      "linkedin": ""
+    },
+    "sessionId": [505]
+  },
+  {
+    "id": "106",
+    "name": "Pragati Rithekar",
+    "company": {
+      "name": "Globant",
+      "designation": "Technical Manager"
+    },
+    "image": "pragati.jpg",
+    "bio": "I am a Technical Manager at Globant and have around 11 years of experience in the IT industry. I love having technical and innovative discussions. Thinking out of the box has always been my second nature. On a personal front, I am a complete foodie and love reading books.",
+    "social": {
+      "twitter": "https://twitter.com/rithekar",
+      "linkedin": ""
+    },
+    "sessionId": [506]
+  },
+  {
+    "id": "107",
+    "name": "Sunit Jindal",
+    "company": {
+      "name": "Nykaa",
+      "designation": "Principal Engineer"
+    },
+    "image": "sunit.jpg",
+    "bio": "Principal Engg @ Nykaa.com. Love traveling and food. Hustler. Believer. Passionate about everything JS.",
+    "social": {
+      "twitter": "https://twitter.com/sunitj",
+      "linkedin": "https://www.linkedin.com/in/sunitjindal/"
+    },
+    "sessionId": [506]
+  },
+  {
+    "id": "108",
+    "name": "Thomas Steiner",
+    "company": {
+      "name": "Google",
+      "designation": "Developer Advocate"
+    },
+    "image": "thomas.jpg",
+    "bio": "Thomas Steiner is a Developer Advocate at Google Hamburg, focused on making the Web a better place through standardization, creating and sharing best practices, and doing research. He blogs at https://blog.tomayac.com/",
+    "social": {
+      "twitter": "https://twitter.com/tomayac",
+      "linkedin": ""
+    },
+    "sessionId": [506]
+  },
+  {
+    "id": "109",
+    "name": "Vikas Kumar",
+    "company": {
+      "name": "NDTV",
+      "designation": "Head Of Technology"
+    },
+    "image": "vikas.jpg",
+    "bio": "I have 14+ Years of Experience in design and development of highly scalable web applications using LEMP / LAMP Stack. Currently I head the technology team of NDTV Convergence, which is a digital arm of NDTV. I am working with NDTV from more than 10+ years.",
+    "social": {
+      "twitter": "https://twitter.com/vikassalyan",
+      "linkedin": "https://www.linkedin.com/in/vikassalyan"
+    },
+    "sessionId": [506]
+  }
+]

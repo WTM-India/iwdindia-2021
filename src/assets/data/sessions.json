@@ -1,0 +1,128 @@
+[
+    {
+        "id": "501",
+        "slide":"",
+        "title":"CWV: Catching Webinions on Vacation",
+        "description":"The talk will cover CWV at a high level, citing examples of good implementations and common learnings so far from the web ecosystem implementations.",
+        "track": "",
+        "link": "",
+        "format": "Day 1",
+        "date": "January 9th, 2021",
+        "timeDuration": "30",
+        "speakers": [
+            101
+        ]
+    },
+    {
+        "id": "502",
+        "slide":"",
+        "title":"Next level web apps",
+        "description":"Progressive Web Apps has come long way. In this talk, we will see how PWAs transitioned from mobile web to desktop and play store. ",
+        "track": "",
+        "link": "",
+        "format": "Day 1",
+        "date": "January 9th, 2021",
+        "timeDuration": "30",
+        "speakers": [
+            102
+        ]
+    },
+    {
+        "id": "503",
+        "slide":"",
+        "title":"Fun with Web Apis",
+        "description":"Today Web is powerful platform, we can enhance user experience by adding advanced web capabilities features such as PWA, Project FUGU APIs and many more. This talk covers some WEB APIs which help in reducing the bridge betweem web app and native app such as contact picker apis, auto fill OTP etc.",
+        "track": "",
+        "link": "",
+        "format": "Day 1",
+        "date": "January 9th, 2021",
+        "timeDuration": "30",
+        "speakers": [
+            103
+        ]
+    },
+    {
+        "id": "504",
+        "slide":"",
+        "title":"What's new in DevTools in Chrome 88?",
+        "description":"Devtools has always helped us to become a better developer over time & the same happened after the introduction of the latest & greatest features in Chrome 88. From a new CSS visualisation tool towards the new web vitals lane, let’s explore the possibilities of taking our debugging to the next level.",
+        "track": "",
+        "link": "",
+        "format": "Day 1",
+        "date": "January 9th, 2021",
+        "timeDuration": "30",
+        "speakers": [
+            104
+        ]
+    },
+    {
+        "id": "505",
+        "slide":"",
+        "title":"Chrome and the Web in 2021",
+        "description":"",
+        "track": "",
+        "link": "",
+        "format": "Day 1",
+        "date": "January 9th, 2021",
+        "timeDuration": "30",
+        "speakers": [
+            105
+        ]
+    },
+    {
+        "id": "506",
+        "slide":"",
+        "title":"Panel Discussion",
+        "description":"Panel Discussion",
+        "track": "",
+        "link": "",
+        "format": "Day 1",
+        "date": "January 9th, 2021",
+        "timeDuration": "45",
+        "speakers": [
+            106, 107, 108, 109
+        ]
+    },
+    {
+        "id": "507",
+        "slide":"",
+        "title":"Welcome Keynote",
+        "description":"Welcome Keynote",
+        "track": "",
+        "link": "",
+        "format": "Day 1",
+        "date": "January 9th, 2021",
+        "timeDuration": "5",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "508",
+        "slide":"",
+        "title":"Fun Activity",
+        "description":"Fun Activity",
+        "track": "",
+        "link": "",
+        "format": "Day 1",
+        "date": "January 9th, 2021",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    },
+    {
+        "id": "509",
+        "slide":"",
+        "title":"Closing Note",
+        "description":"Closing Note",
+        "track": "",
+        "link": "",
+        "format": "Day 1",
+        "date": "January 9th, 2021",
+        "timeDuration": "15",
+        "speakers": [
+            
+        ]
+    }
+]
