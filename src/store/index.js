@@ -16,15 +16,15 @@ export default new Vuex.Store({
           showBottomNav: true,
         },
       },
-      // {
-      //   text: "Communities",
-      //   to: "/communities",
-      //   icon: "mdi-form-select",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: false,
-      //   },
-      // },
+      {
+        text: "Communities",
+        to: "/communities",
+        icon: "mdi-form-select",
+        meta: {
+          showToolbar: true,
+          showBottomNav: false,
+        },
+      },
       {
         text: "Schedule",
         to: "/schedule",
@@ -43,24 +43,24 @@ export default new Vuex.Store({
           showBottomNav: true,
         },
       },
-      // {
-      //   text: "Team",
-      //   to: "/team",
-      //   icon: "mdi-account-multiple",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: false,
-      //   },
-      // },
-      // {
-      //   text: "Register",
-      //   to: "/registration",
-      //   icon: "mdi-account-circle-outline",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: false,
-      //   },
-      // },
+      {
+        text: "Team",
+        to: "/team",
+        icon: "mdi-account-multiple",
+        meta: {
+          showToolbar: true,
+          showBottomNav: false,
+        },
+      },
+      {
+        text: "Register",
+        to: "/registration",
+        icon: "mdi-account-circle-outline",
+        meta: {
+          showToolbar: true,
+          showBottomNav: false,
+        },
+      },
       // {
       //   text: "Live",
       //   to: "/Live",

@@ -5,7 +5,7 @@
       "name": "GDG Jalandhar",
       "designation": "Team Member"
     },
-    "image": "bharat.jpg",
+    "image": "",
     "bio": "An random and average person",
     "social": {
       "twitter": "https://twitter.com/bharatagsrwal",
@@ -20,7 +20,7 @@
       "name": "GDG Jalandhar",
       "designation": "Team Member"
     },
-    "image": "vrijraj.jpg",
+    "image": "",
     "bio": "Vrijraj is a front-end developer by profession and a community champion by passion. He is an organizer for GDG Jalandhar and a Google Developers Expert for Firebase and Web Technologies. He has given 80+ talks and workshops for communities over the past 5 years. His areas of expertise are around Web, Firebase, Google Cloud Platform, and UI/UX Design. He is always eager to learn new technologies and develop solutions based on them. He enjoys mentoring people and  nurturing communities. Outside work, he is a foodie and enjoys watching YouTube videos.",
     "social": {
       "twitter": "https://twitter.com/VrijrajSingh",
@@ -35,7 +35,7 @@
       "name": "GDG Jalandhar",
       "designation": "Team Member"
     },
-    "image": "ashwani_kumar.jpg",
+    "image": "",
     "bio": "A member of GDG Jalandhar, student of Guru Nanak Dev University, RC Jalandhar     and pursuing BTech. CSE in 3rd year. He shows enthusiasm in the cyber security field and has been an Intern at Gurugram Cyber Cell. Speaking on InfoSec excites him more and loves to show his creativity with front-end development.",
     "social": {
       "twitter": "https://twitter.com/07_AKumar?s=20",
@@ -48,7 +48,7 @@
       "name": "GDG Jalandhar",
       "designation": "Team Member"
     },
-    "image": "batchu_thrishna.jpeg",
+    "image": "",
     "bio": "She’s an Android Developer, curious to learn new things and a member at GDG Jalandhar",
     "social": {
       "twitter": "https://twitter.com/BatchuThrishna",
@@ -57,104 +57,18 @@
     }
   },
   {
-    "name": "Ravi Rana",
-    "community": {
-      "name": "DSC Chandigarh Group of Colleges",
-      "designation": "Lead"
-    },
-    "image": "ravi_rana.jpg",
-    "bio": "Ravi Rana is a highly motivated individual, continually working for the betterment of the community. He is associated with DSC CGC for the past two years, starting as a core team member to leading it this term. He believes in learning through practical implementation and has motivated other members of the community to do so as well.",
-    "social": {
-      "twitter": "https://www.twitter.com/ravii_rana",
-      "linkedin": "https://www.linkedin.com/in/ravii-rana",
-      "website": "http://www.ravirana.me",
-      "github": "https://www.github.com/ravi2319"
-    }
-  },
-  {
-    "name": "Yashank",
-    "community": {
-      "name": "DSC Chitkara University",
-      "designation": "Lead"
-    },
-    "image": "yashank.jpg",
-    "bio": "Yashank is a passionate and dedicated learner who loves creating solutions to real-life problems using technology. He believes strong leadership can help a community achieve greater heights. He is currently pursuing Bachelor of Technology in Computer Science and engineering from Chitkara University",
-    "social": {
-      "twitter": "https://twitter.com/Yashank17",
-      "linkedin": "https://www.linkedin.com/in/yashank18/",
-      "website": "https://stackoverflow.com/story/yashank18",
-      "github": "https://github.com/Yashank18"
-    }
-  },
-  {
-    "name": "J. Siv Ram Shastri",
-    "community": {
-      "name": "GDG Jalandhar",
-      "designation": "Team Member"
-    },
-    "image": "siv_ram_shastri.jpg",
-    "bio": "Siv Ram is a Front-end Web Developer and a JavaScript enthusiast. Experimenting with JavaScript and exploring new frameworks is his passion. Currently experimenting with Deno and working on React. He is also an active contributor at Google Developers Group - GDG Jalandhar",
-    "social": {
-      "twitter": "https://twitter.com/prince_shivaram",
-      "linkedin": "https://www.linkedin.com/in/sivramshastri",
-      "website": "http://prince-shivaram.github.io/",
-      "github": "https://github.com/Prince-Shivaram"
-    }
-  },
-  {
-    "name": "Bhavesh Mali",
-    "community": {
-      "name": "DSC LPU, Punjab",
-      "designation": "Lead"
-    },
-    "image": "bhavesh_mali.jpg",
-    "bio": "DSC Lead @LPU | MLSA(Beta)@Microsoft | Full Stack Developer | SIH - 2019  Finalist!",
-    "social": {
-      "twitter": "https://twitter.com/imbhavesh28",
-      "linkedin": "https://www.linkedin.com/in/imbhavesh28/",
-      "github": "https://github.com/imbhavesh28"
-    }
-  },
-  {
-    "name": "Rachel Agnihotri",
-    "community": {
-      "name": "DSC UIET, Panjab University",
-      "designation": "Lead"
-    },
-    "image": "rachel_agnihotri.jpeg",
-    "bio": "Rachel is passionate about technology and the good that it can do. She codes in Python and loves to work on GCP. She’s always eager to meet new people and learn new things. When she’s not glued to her laptop, you can find her overdosing on coffee",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/rachel-agnihotri-04b3a8172/"
-    }
-  },
-  {
     "name": "Varsha Jaiswal",
     "community": {
       "name": "GDG Jalandhar",
       "designation": "Team Member"
     },
-    "image": "varsha_jaiswal.jpg",
+    "image": "",
     "bio": "Varsha is a girl with a bag full of hardwork and determination to fulfill her responsibilities. She is the Organizer and Ambassador at GDG WTM Jalandhar. Working as a Software Engineer, she has a keen interest in working on new technologies. Being a facilitator of #IamRemarkable Workshop, she always gives her best to motivate her surroundings.",
     "social": {
       "twitter": "https://twitter.com/_varshajaiswal_",
       "linkedin": "https://www.linkedin.com/in/varshajaiswal/",
       "github": "https://github.com/Varsha-Jaiswal",
       "website": "https://varsha-jaiswal.web.app/"
-    }
-  },
-  {
-    "name": "Jaskeerat Singh",
-    "community": {
-      "name": "DSC TIET",
-      "designation": "Lead"
-    },
-    "image": "jaskeerat_singh.jpg",
-    "bio": "",
-    "social": {
-      "twitter": "",
-      "linkedin": "",
-      "github": "",
-      "website": ""
     }
   }
 ]

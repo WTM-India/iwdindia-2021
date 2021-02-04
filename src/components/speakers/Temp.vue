@@ -138,13 +138,13 @@
         </v-container>
       </v-card-text>
 
-      <v-divider></v-divider>
+      <!-- <v-divider></v-divider> -->
 
       <v-card-actions class="white">
         <v-spacer></v-spacer>
         <v-btn
           aria-label="close"
-          outlined
+          flat
           class="px-10"
           color="primary"
           text

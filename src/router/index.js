@@ -10,11 +10,11 @@ const routes = [
     name: 'Home',
     component: Home
   },
-  // {
-  //   path: '/team',
-  //   name: 'Team',
-  //   component: () => import(/* webpackChunkName: "about" */ '../views/Team.vue')
-  // },
+  {
+    path: '/team',
+    name: 'Team',
+    component: () => import(/* webpackChunkName: "about" */ '../views/Team.vue')
+  },
   {
     path: '/speakers',
     name: 'Speakers',
@@ -25,11 +25,11 @@ const routes = [
     name: 'Schedule',
     component: () => import(/* webpackChunkName: "schedule" */ '../views/Schedule.vue')
   },
-  // {
-  //   path: '/communities',
-  //   name: 'Communities',
-  //   component: () => import(/* webpackChunkName: "communities" */ '../views/Partners.vue')
-  // },
+  {
+    path: '/communities',
+    name: 'Communities',
+    component: () => import(/* webpackChunkName: "communities" */ '../views/Partners.vue')
+  },
   {
     path: '/faq',
     name: 'FAQ',
@@ -40,11 +40,11 @@ const routes = [
       name: 'Badge',
       component: () => import(/* webpackChunkName: "badge" */ '../views/Badge.vue')
     },
-  // {
-  //   path: '/registration',
-  //   name: 'Registraton',
-  //   component: () => import(/* webpackChunkName: "registration" */ '../views/Registration.vue')
-  // },
+  {
+    path: '/registration',
+    name: 'Registraton',
+    component: () => import(/* webpackChunkName: "registration" */ '../views/Registration.vue')
+  },
   {
     path: '/coc',
     name: 'CodeofConduct',

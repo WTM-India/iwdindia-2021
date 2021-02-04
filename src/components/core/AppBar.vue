@@ -60,6 +60,7 @@
         >{{ link.text }}</v-tab
       >
     </v-tabs>
+    <PushNotification />
     <v-btn
       aria-label="Share Button"
       icon
@@ -73,11 +74,15 @@
 
 <script>
 import { mapGetters, mapMutations } from "vuex";
+import PushNotification from "./PushNotification";
 export default {
   name: "AppBar",
   data: () => ({
     hideSlidersOn: ["CodeofConduct"],
   }),
+  components:{
+    PushNotification
+  },
   computed: {
     ...mapGetters(["links"]),
   },
@@ -91,8 +96,8 @@ export default {
     getRouteName() {
       return this.hideSlidersOn.includes(this.$route.name) ? true : false;
     },
-    shareMe(e) {
-      console.log(e);
+    shareMe() {
+      // console.log(e);
       if (navigator.share) {
         navigator
           .share({

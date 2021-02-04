@@ -13,7 +13,12 @@
         class="text-center py-5 ma-1 fill-height"
       >
         <v-avatar size="100">
-          <img :src="require('@/assets/img/team/' + item.image)" :lazy-src="require('@/assets/img/team/' + item.image)" :alt="item.name" />
+          <!-- :src="require('@/assets/img/team/' + item.image)" :lazy-src="require('@/assets/img/team/' + item.image)" -->
+          <img
+            :src="getImgUrl(item.image)"
+            :lazy-src="getImgUrl(item.image)"
+            :alt="item.name"
+          />
         </v-avatar>
         <p class="mt-3 mb-0 google-font mb-0" style="font-size: 110%">
           {{ item.name }}
@@ -31,7 +36,11 @@
           <v-row align="center" justify="center">
             <v-col md="4" cols="12" class="text-center">
               <v-avatar size="100">
-                <img :src="require('@/assets/img/team/' + item.image)" :lazy-src="item.image" :alt="item.name" />
+                <img
+                  :src="getImgUrl(item.image)"
+                  :lazy-src="getImgUrl(item.image)"
+                  :alt="item.name"
+                />
               </v-avatar>
               <p class="google-font mt-3 mb-0" style="font-size: 140%">
                 <b>{{ item.name }}</b>
@@ -64,7 +73,7 @@
 import SocialMediaDetails from "@/components/common/PersonSocialInfo";
 export default {
   components: {
-    SocialMediaDetails
+    SocialMediaDetails,
   },
   inject: ["theme"],
   props: ["item"],

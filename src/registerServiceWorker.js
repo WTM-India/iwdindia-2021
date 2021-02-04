@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
 
 import { register } from "register-service-worker";
+import FDK from "@/config/firebase";
 
 if (process.env.NODE_ENV === "production") {
   register(`${process.env.BASE_URL}service-worker.js`, {
@@ -12,6 +13,12 @@ if (process.env.NODE_ENV === "production") {
     },
     registered(registration) {
       console.log("Service worker has been registered.");
+      try {
+        if (FDK.notificationSupported && Notification)
+          FDK.messaging.useServiceWorker(registration);
+      } catch (e) {
+        alert(e);
+      }
       setInterval(() => {
         registration.update();
       }, 1000 * 60 * 60); // hourly checks
