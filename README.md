@@ -21,6 +21,8 @@ Standard Web App for Tech Communties. <br>
 * [Firebase](https://firebase.google.com/)
 * [Service Worker & PWA](https://www.npmjs.com/package/vue-pwa)
 * [Workbox](https://developers.google.com/web/tools/workbox)
+* [Google Cloud Platform](https://cloud.google.com/)
+* [Google Data Studio](https://datastudio.google.com/u/0/)
 
 
 ### Customize configuration
