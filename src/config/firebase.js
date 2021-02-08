@@ -5,13 +5,12 @@ import "firebase/performance";
 import "firebase/messaging";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA6qChimnN-IuqH--uKK09_Xhg38EP0YBg",
-  authDomain: "devfestindia2020.firebaseapp.com",
-  databaseURL: "https://devfestindia2020.firebaseio.com",
-  projectId: "devfestindia2020",
-  storageBucket: "devfestindia2020.appspot.com",
-  messagingSenderId: "394032196909",
-  appId: "1:394032196909:web:e9bcb020572abcd64e77a4",
+  apiKey: "AIzaSyBhuefIeNSIp-MptPexZrOPdpZ0L2oxaak",
+  authDomain: "iwd-india-2021.firebaseapp.com",
+  projectId: "iwd-india-2021",
+  storageBucket: "iwd-india-2021.appspot.com",
+  messagingSenderId: "169650240127",
+  appId: "1:169650240127:web:99682d87dcd1e78f615d4a"
 };
 
 firebase.initializeApp(firebaseConfig);
