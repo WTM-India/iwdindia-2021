@@ -15,12 +15,12 @@
               <span style="color:#424242">{{maindata.eventname}}</span> | 
               <span style="color:#4285f4">Registration</span>
             </p>
-            <p class="google-font">
+            <p class="">
               India's biggest developer conclave with 40+ GDG
               communities.
               <br />Separated by distance, united by passion.
             </p>
-            <p class="google-font">
+            <p class="">
               The mega event is set to happen on
               <b>Oct 16th, 17th & 18th</b> with the
               line-up of expert speakers, multiple tracks, fun engagements and many more.
@@ -49,7 +49,7 @@
                   <v-list-item-content>
                     <v-list-item-title class="google-font" v-html="user.displayName"></v-list-item-title>
                     <v-list-item-subtitle v-html="user.email"></v-list-item-subtitle>
-                    <v-list-item-subtitle v-on:click="logout" style="color:blue;cursor: pointer">
+                    <v-list-item-subtitle v-on:click="logout" style="color:#4285f4;cursor: pointer">
                       <u>Logout as a {{ user.email }}</u>
                     </v-list-item-subtitle>
                   </v-list-item-content>
@@ -69,11 +69,7 @@
                   <br><br><br>
                   <p class="google-font mb-2">No Google Account? Create an Account/ Sign in with Email.</p>
                   <EmailPass class="mt-0 ml-2"/>
-
-                  <!-- <p class="mt-5 google-font">If you don't have any Google account, please fill your entry in <a v-if="maindata.googlefromforregistration" target="_blank" rel="noreferrer" style="color:#4285f4" :href="maindata.googlefromforregistration">this</a> form.</p> -->
                 </div>
-                <!-- <EmailPass/> -->
-                <!--  -->
                 <div v-if="!emailVerified">
                   <p>Kindly verify your email by clicking on the link sent to your email address. Also, do refresh this page post verification to move ahead with the registration.</p>
                 </div>
@@ -714,7 +710,6 @@ export default {
       var self = this;
       FDK.auth.onAuthStateChanged(function (user) {
         if (user) {
-          // console.log(user)
           self.showLoginBtn = false;
           self.userLoginIn = true;
           self.user = user;
@@ -755,8 +750,7 @@ export default {
         .auth()
         .signInWithPopup(provider)
         .then(function (result) {
-          var token = result.credential.accessToken;
-          var user = result.user;
+          let user = result.user;
           self.userLoginIn = true;
           self.userForm = true;
           self.response.email = user.email;
@@ -766,10 +760,6 @@ export default {
           self.isSnackBarVisible = true;
         })
         .catch(function (error) {
-          var errorCode = error.code;
-          var errorMessage = error.message;
-          var email = error.email;
-          var credential = error.credential;
         });
     },
     saveData() {
