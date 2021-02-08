@@ -1,13 +1,14 @@
 const functions = require("firebase-functions");
 const admin = require("firebase-admin");
-const { key } = require('./config')
+const sd = require('./config')
 // SandGrid
 const sgMail = require("@sendgrid/mail");
-sgMail.setApiKey(key);
+sgMail.setApiKey(sd.getKey());
 
 admin.initializeApp();
 
 const sendSendGridMail = async (snap) => {
+  // console.log('api key ', sd.getKey())
   try {
     const docId = snap.id;
     const name = snap.data().name;
@@ -15,7 +16,7 @@ const sendSendGridMail = async (snap) => {
     const fname = name.split(" ")[0];
     let info = await sgMail
       .send({
-        from: "WTM India <no-iwdindia.in>",
+        from: "WTM India <no-reply@iwdindia.in>",
         dynamicTemplateData: { name: fname },
         to: email,
         templateId: "d-371b1d5566564665ad0ab09a5c808c55",

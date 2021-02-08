@@ -23,7 +23,7 @@
             </v-fab-transition>
             <h1
               class="google-font"
-            >CDS Extended</h1>
+            >IWD India 2021</h1>
           </v-card-text> 
         </v-col>
       </v-row>
