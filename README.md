@@ -1,4 +1,4 @@
-# IWD India | Aura 3.0
+# IWD India
 Standard Web App for Tech Communties. <br>
 [Based on Project Aura](https://github.com/gdg-x/aura) <br>
 
