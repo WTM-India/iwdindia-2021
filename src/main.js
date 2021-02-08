@@ -6,6 +6,13 @@ import store from './store';
 import vuetify from './plugins/vuetify';
 import (/* webpackPreload: true */ './style.css');
 import generalFunctions from './services/genFunc'
+import VueMeta from 'vue-meta'
+ 
+Vue.use(VueMeta, {
+  // optional pluginOptions
+  refreshOnceOnNavigation: true
+})
+
 
 Vue.config.productionTip = false;
 Vue.mixin(generalFunctions)

@@ -55,6 +55,19 @@
 <script>
 import Hero from /* webpackChunkName: "hero", webpackPreload: true */ "@/components/home/Hero"
 export default {
+  metaInfo: {
+      title: 'Home',
+      titleTemplate: '%s | IWD India 2021',
+      htmlAttrs: {
+        lang: 'en',
+        amp: true
+      },
+      meta: [
+        { charset: 'utf-8' },
+        { name: 'description', content: 'IWD India Description' },
+        { name: 'viewport', content: 'width=device-width, initial-scale=1' }
+      ]
+  },
   name: "Home",
   components: {
     Hero,
