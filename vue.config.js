@@ -12,7 +12,7 @@ module.exports = {
     "vuetify"
   ],
   pwa: {
-    name: 'IWD India',
+    name: 'IWD India 2021',
     workboxPluginMode: 'InjectManifest',
     themeColor: '#3D7FF5',
     msTileColor: '#3D7FF5',
