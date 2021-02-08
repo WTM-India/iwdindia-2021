@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "cdsindia",
+    "site": "iwd-india-2021",
     "public": "dist",
     "ignore": [
       "firebase.json",
@@ -9,13 +9,13 @@
     ],
     "rewrites": [
       {
-        "source": "**",
+      "source": "**",
         "destination": "/index.html"
       }
     ],
     "headers": [
       {
-        "source": "**/*.@(eot|otf|ttf|ttc|woff|font.css)",
+        "source": "**/*.np@(eot|otf|ttf|ttc|woff|font.css)",
         "headers": [
           {
             "key": "Access-Control-Allow-Origin",
@@ -24,29 +24,11 @@
         ]
       },
       {
-        "source": "**/*.@(js|css)",
-        "headers": [
-          {
-            "key": "Cache-Control",
-            "value": "max-age=604800"
-          }
-        ]
-      },
-      {
         "source": "**/*.@(jpg|jpeg|gif|png)",
         "headers": [
           {
             "key": "Cache-Control",
-            "value": "max-age=604800"
-          }
-        ]
-      },
-      {
-        "source": "404.html",
-        "headers": [
-          {
-            "key": "Cache-Control",
-            "value": "max-age=300"
+            "value": "max-age=31557600"
           }
         ]
       }
