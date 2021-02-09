@@ -6,23 +6,23 @@
       :style="{'background': colorCode}"
       class="ma-0 py-0"
     >
-      <v-col cols="12" md="12" lg="12" sm="12" class="pa-0 ma-0" :style="{'backgroundImage':'url(https://developer.chrome.com/devsummit/assets/squiggles/banner-2e4e7af6.avif), repeat-x bottom', 'maxheight':'400px'}">
+      <v-col cols="12" md="12" lg="12" sm="12" class="pa-0 ma-0" >
         <v-img
           alt="Shape svg"
           class="contain"
-          :src="require('@/assets/img/tear-top-white.svg')"
+          :src="require('@/assets/img/wtm-full-banner.png')"
           width="120%"
           style="max-height:180px"
         ></v-img>
 
-        <v-img
+        <!-- <v-img
           alt="Shapes Images"
           class="contain"
           src="https://developer.chrome.com/devsummit/assets/squiggles/banner-2e4e7af6.avif"
           width="100%"
           style="z-index:1"
           :style="{'maxHeight':height}"
-        ></v-img>
+        ></v-img> -->
 
         <!-- <v-img
           alt="Shape svg"
