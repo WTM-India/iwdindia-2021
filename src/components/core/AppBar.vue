@@ -57,7 +57,7 @@
         >{{ link.text }}</v-tab
       >
     </v-tabs>
-    <v-btn to="/registration" rounded depressed class="mx-3" color="#4285f4" dark>
+    <v-btn to="/registration" rounded depressed class="mx-3 hidden-sm-and-down" color="#4285f4" dark>
       <v-icon left>mdi-account-circle-outline</v-icon>
       Register
     </v-btn>
