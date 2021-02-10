@@ -1,13 +1,14 @@
 <template>
   <v-container fluid class="py-0">
     <v-row justify="center" align="center" class="py-md-5">
+      
       <v-col cols="12" md="6" class="order-2 order-md-1">
         <v-img
           alt="Vuetify Logo"
           class="shrink mr-2 ml-n1"
           contain
-          :src="require('@/assets/img/cdslogo.png')"
-          width="90%"
+          :src="require('@/assets/img/wtmlogo.png')"
+          width="40%"
         />
       <!-- <p class="google-font " style="font-size:1.9em;"><span style="color:#4285FA"><b> Let's celebrate the post Diwali developer celebration</b></span></p> -->
         <p
@@ -15,7 +16,7 @@
           style="font-size: 135%; font-weight: 700"
         >
           <span style="font-weight:400"
-            >January 9, 2021&nbsp;|&nbsp;</span
+            >March 20-21, 2021&nbsp;|&nbsp;</span
           >Online
         </p>
         <p class="google-font" style="font-size: 105%">
@@ -37,7 +38,7 @@
             #{{ item }}
           </v-chip>
         </p>
-        <v-btn
+        <!-- <v-btn
           dark
           color="#FF0000"
           depressed
@@ -52,8 +53,8 @@
           href="https://www.youtube.com/watch?v=Q1jkscA6u7I"
           class="google-font mr-3 mb-3 mt-6"
           >Watch Now</v-btn
-        >
-        <!-- <v-btn
+        > -->
+        <v-btn
           dark
           color="#3D7FF5"
           depressed
@@ -64,12 +65,12 @@
             font-size:110%;
             padding: 00% 8%;
           "
-          to="/registration"
           class="google-font mr-3 mb-3 mt-6"
-          >Register</v-btn
-        > -->
+          >
+          <a style="color:#fff;text-decoration: none;" href="https://www.womentechmakers.com/initiatives" target="_blank">Become a Member</a>
+          </v-btn>
 
-        <!-- <v-btn
+        <v-btn
           dark
           color="#3D7FF5"
           depressed-
@@ -81,10 +82,9 @@
             font-size:110%;
             padding: 00% 2%;
           "
-          to="/badge"
           class="google-font mr-3 mb-3 mt-6"
-          >CDS Extended India Badge</v-btn
-        > -->
+          >IWD India 2021 Badge Soon</v-btn
+        >
         <!-- <v-btn disabled class="google-font mr-3 mb-3 mt-6" style="
                         text-transform: capitalize;
                     ">
@@ -108,8 +108,8 @@
 
         
       </v-col>
-      <v-col cols="12" md="6" class="text-center pa-md-0 order-1 order-md-2">
-        <v-img class="" :src="require('@/assets/img/homeImage.png')" style="width:160%">
+       <v-col cols="12" md="6" class="text-center pa-md-0 order-1 order-md-2">
+        <v-img class="" :src="require('@/assets/img/homeimage-iwd.png')" style="width:70%;margin:0 auto;">
         </v-img>
       </v-col>
     </v-row>
@@ -120,7 +120,7 @@
 export default {
   name: "HomeHero",
   data: () => ({
-    hashtags: ["CDSExtended","CDSExtendedIndia"],
+    hashtags: ["WomenTechmakers","IWDIndia2021","CouragetoCreate"],
   }),
 };
 </script>

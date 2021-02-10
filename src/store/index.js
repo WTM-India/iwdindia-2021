@@ -16,51 +16,51 @@ export default new Vuex.Store({
           showBottomNav: true,
         },
       },
-      {
-        text: "Communities",
-        to: "/communities",
-        icon: "mdi-form-select",
-        meta: {
-          showToolbar: true,
-          showBottomNav: false,
-        },
-      },
-      {
-        text: "Schedule",
-        to: "/schedule",
-        icon: "mdi-format-float-left",
-        meta: {
-          showToolbar: true,
-          showBottomNav: true,
-        },
-      },
-      {
-        text: "Speakers",
-        to: "/speakers",
-        icon: "mdi-account-switch",
-        meta: {
-          showToolbar: true,
-          showBottomNav: true,
-        },
-      },
-      {
-        text: "Team",
-        to: "/team",
-        icon: "mdi-account-multiple",
-        meta: {
-          showToolbar: true,
-          showBottomNav: false,
-        },
-      },
-      {
-        text: "Register",
-        to: "/registration",
-        icon: "mdi-account-circle-outline",
-        meta: {
-          showToolbar: true,
-          showBottomNav: false,
-        },
-      },
+      // {
+      //   text: "Communities",
+      //   to: "/communities",
+      //   icon: "mdi-form-select",
+      //   meta: {
+      //     showToolbar: true,
+      //     showBottomNav: false,
+      //   },
+      // },
+      // {
+      //   text: "Schedule",
+      //   to: "/schedule",
+      //   icon: "mdi-format-float-left",
+      //   meta: {
+      //     showToolbar: true,
+      //     showBottomNav: true,
+      //   },
+      // },
+      // {
+      //   text: "Speakers",
+      //   to: "/speakers",
+      //   icon: "mdi-account-switch",
+      //   meta: {
+      //     showToolbar: true,
+      //     showBottomNav: true,
+      //   },
+      // },
+      // {
+      //   text: "Team",
+      //   to: "/team",
+      //   icon: "mdi-account-multiple",
+      //   meta: {
+      //     showToolbar: true,
+      //     showBottomNav: false,
+      //   },
+      // },
+      // {
+      //   text: "Register",
+      //   to: "/registration",
+      //   icon: "mdi-account-circle-outline",
+      //   meta: {
+      //     showToolbar: true,
+      //     showBottomNav: false,
+      //   },
+      // },
       // {
       //   text: "Live",
       //   to: "/Live",
@@ -79,15 +79,15 @@ export default new Vuex.Store({
           showBottomNav: false,
         },
       },
-      {
-        text: "Badge",
-        to: "/badge",
-        icon: "mdi-sticker-emoji",
-        meta: {
-          showToolbar: true,
-          showBottomNav: true,
-        },
-      },
+      // {
+      //   text: "Badge",
+      //   to: "/badge",
+      //   icon: "mdi-sticker-emoji",
+      //   meta: {
+      //     showToolbar: true,
+      //     showBottomNav: true,
+      //   },
+      // },
     ],
 },
   getters: {
