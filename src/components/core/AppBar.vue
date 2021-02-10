@@ -79,7 +79,7 @@ import PushNotification from "./PushNotification";
 export default {
   name: "AppBar",
   data: () => ({
-    hideSlidersOn: ["CodeofConduct"],
+    hideSlidersOn: ["CodeofConduct", "Registraton"],
   }),
   components:{
     PushNotification
@@ -102,8 +102,8 @@ export default {
       if (navigator.share) {
         navigator
           .share({
-            title: "Chrome Dev Summit Extended India",
-            url: "https://cds.webdevsin.com/",
+            title: "Women Techmakers International Women's Day India Summit 2021",
+            url: "https://iwdindia.in/",
           })
           .then(() => {
             console.log("Thanks for sharing");

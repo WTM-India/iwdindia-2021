@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import Home from '../views/Home.vue';
+import Home from /* webpackChunkName: "HomePage" , webpackPreload: true */ '../views/Home.vue';
 
 Vue.use(VueRouter);
 
@@ -13,42 +13,42 @@ const routes = [
   // {
   //   path: '/team',
   //   name: 'Team',
-  //   component: () => import(/* webpackChunkName: "about" */ '../views/Team.vue')
+  //   component: () => import(/* webpackChunkName: "aboutPage" */ '../views/Team.vue')
   // },
   // {
   //   path: '/speakers',
   //   name: 'Speakers',
-  //   component: () => import(/* webpackChunkName: "speakers" */ '../views/Speakers.vue')
+  //   component: () => import(/* webpackChunkName: "speakersPage" */ '../views/Speakers.vue')
   // },
   // {
   //   path: '/schedule',
   //   name: 'Schedule',
-  //   component: () => import(/* webpackChunkName: "schedule" */ '../views/Schedule.vue')
+  //   component: () => import(/* webpackChunkName: "schedulePage" */ '../views/Schedule.vue')
   // },
   // {
   //   path: '/communities',
   //   name: 'Communities',
-  //   component: () => import(/* webpackChunkName: "communities" */ '../views/Partners.vue')
+  //   component: () => import(/* webpackChunkName: "communitiesPage" */ '../views/Partners.vue')
   // },
   {
     path: '/faq',
     name: 'FAQ',
-    component: () => import(/* webpackChunkName: "faq" */ '../views/FAQ.vue')
+    component: () => import(/* webpackChunkName: "faqPage" , webpackPreload: true */ '../views/FAQ.vue')
   },
   // {
   //     path: '/badge',
   //     name: 'Badge',
-  //     component: () => import(/* webpackChunkName: "badge" */ '../views/Badge.vue')
+  //     component: () => import(/* webpackChunkName: "badge", webpackPreload: true */ '../views/Badge.vue')
   //   },
   {
     path: '/registration',
     name: 'Registraton',
-    component: () => import(/* webpackChunkName: "registration" */ '../views/CustomRegistration.vue')
+    component: () => import(/* webpackChunkName: "registrationPage", webpackPreload: true */ '../views/CustomRegistration.vue')
   },
   {
     path: '/coc',
     name: 'CodeofConduct',
-    component: () => import(/* webpackChunkName: "coc" */ '../views/CoC.vue')
+    component: () => import(/* webpackChunkName: "cocPage", webpackPreload: true */ '../views/CoC.vue')
   }
 ];
 

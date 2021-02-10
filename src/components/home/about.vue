@@ -1,38 +1,66 @@
 <template>
-  <v-container fluid>
-    <v-row justify="center" align="center" class="my-5 py-5" >
-      <v-col md="4" sm="12" cols="12" class="">
+  <v-container fluid >
+    <v-row justify="center" align="center" class="my-md-5 py-md-5">
+      <v-col md="5" sm="12" cols="12" class="">
         <v-img
           alt="Vuetify Logo"
           class="shrink "
           contain
-          :src="require('@/assets/img/about.svg')"
+          :src="require('@/assets/img/tagline.svg')"
           width="100%"
         />
       </v-col>
-      <v-col md="8" sm="12" cols="12" >
-        <p class="google-font" style="font-size:2.0em;">
-        <span style="color:#5f6368">chrome://</span> <b><span style="color:#000000de">about CDS Extended</span></b>
+      <v-col md="7" sm="12" cols="12" class="white--text">
+        <p class="google-font" style="font-size:2.5em;">
+          <span style="">Empowered women, empower all! </span>
         </p>
-        <p class="google-font" style="font-size:135%;"><b>January 9, 2021 | Online</b></p>
-        <p class="google-font" style="font-size:110%">
-          Chrome Dev Summit Extended India is a follow-up event of Chrome Dev Summit. Like any other event, we are keeping this simple. Apart from sharing plethora of guidances from the main session of Chrome Dev Summit, we’ll be covering a hands-on workshop delivered by experts to experience better!
-          <br><br>
-          We’ll be running virtually on January 9, 2021 on various amazing topics such as Web vitals, Speedtools, Web capabilities, Frontend performance etc.
-
+        <p class="google-font" style="font-size:1.5em;">
+          March 20 & 21, 2021 | Online
         </p>
-        <p class="google-font" style="font-size:125%"><b><span class="mr-4">#CDSExtended</span></b> <b><span class="mr-4">#CDSExtendedIndia</span></b></p>
-        
+        <p class="google-font" style="font-size:1.2em">
+          Women Techmakers community provides visibility, community and
+          resources for women in tech to join, thrive and lead in the industry.
+          As a part of our International Women’s Day celebrations, we invite
+          women and allies to join us in this celebration along with their
+          communities.
+          <br /><br />
+          This event is put together by a group of amazing, passionate women who
+          have an undying courage to create extraordinary things. During this 2
+          days online event, you will get a chance to learn from our phenomenal
+          speakers which will surely help you in accelerating your career.
+        </p>
+        <p class="google-font">
+          <v-chip
+            v-for="item in hashtags"
+            :key="item"
+            outlined
+            label
+            target="_blank"
+            rel="noreferrer"
+            :href="'https://twitter.com/hashtag/' + item"
+            dark
+            color="white"
+            class="mr-2"
+          >
+            #{{ item }}
+          </v-chip>
+        </p>
+        <!-- <p class="google-font" style="font-size:125%">
+          <span class="mr-4">#IWDIndia2021</span>
+          <span class="mr-4">#CouragetoCreate</span>
+        </p> -->
       </v-col>
+      
+      
     </v-row>
   </v-container>
 </template>
 
 <script>
 export default {
-  name: "About",
+  name: "HomeAboutComponent",
   data: () => ({
-    faqData: [],
+    hashtags: ["IWDIndia2021","CouragetoCreate"],
   }),
   mounted() {},
 };

@@ -2,7 +2,7 @@
   <v-container fluid class="">
     <v-row class="">
       <v-col class="px-4">
-         <p class="google-font mb-0" style="font-size:2.0em;font-weight:700"><span style="color:#5f6368">chrome://</span> Frequently asked questions</p>
+         <p class="google-font mb-0" style="font-size:2.0em;">Frequently asked questions</p>
          <p>Need Answers? Everything you need to know, Find them here. <router-link to="/faq">Seee More FAQs</router-link></p>
       </v-col>
     </v-row>
@@ -33,7 +33,7 @@
 <script>
 import data from "@/assets/data/faq.json";
 export default {
-  name: "HomeFaqs",
+  name: "HomeFASComponent",
   data: () => ({
     faqsData: [],
   }),

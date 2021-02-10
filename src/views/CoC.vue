@@ -1,5 +1,5 @@
 <template>
-  <v-main class="ma-0">
+  <v-main class="">
     <v-container fluid class="mb-5">
       <v-row
         justify="center"
@@ -18,7 +18,7 @@
           >
             Code of Conduct
           </h1>
-          <p class="google-font" style="font-size:120%">All participants of CDS Extended event, online attendees, event staff, and speakers, must abide by the following policy:</p>
+          <p class="google-font" style="font-size:120%">All participants of Women Techmakers International Women's Day India Summit 2021 event, online attendees, event staff, and speakers, must abide by the following policy:</p>
         </v-col>
       </v-row>
       <v-row justify="center" align="center">

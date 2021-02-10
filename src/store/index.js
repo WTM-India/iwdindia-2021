@@ -52,15 +52,15 @@ export default new Vuex.Store({
       //     showBottomNav: false,
       //   },
       // },
-      // {
-      //   text: "Register",
-      //   to: "/registration",
-      //   icon: "mdi-account-circle-outline",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: false,
-      //   },
-      // },
+      {
+        text: "Register",
+        to: "/registration",
+        icon: "mdi-account-circle-outline",
+        meta: {
+          showToolbar: false,
+          showBottomNav: true,
+        },
+      },
       // {
       //   text: "Live",
       //   to: "/Live",
@@ -76,6 +76,15 @@ export default new Vuex.Store({
         icon: "mdi-star-outline",
         meta: {
           showToolbar: true,
+          showBottomNav: true,
+        },
+      },
+      {
+        text: "Code of Conduct",
+        to: "/coc",
+        icon: "mdi-star-outline",
+        meta: {
+          showToolbar: false,
           showBottomNav: false,
         },
       },

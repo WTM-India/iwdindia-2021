@@ -22,40 +22,6 @@
                   Sign In
                 </v-tab>
               </v-tabs>
-
-              <!-- <div v-if="signupscreen">
-                  <v-text-field
-                    v-model="email"
-                    placeholder="Email"
-                    outlined
-                  ></v-text-field>
-                  <v-text-field
-                    v-model="password"
-                    placeholder="password"
-                    outlined
-                  ></v-text-field>
-                  <v-text-field
-                    v-model="cpassword"
-                    placeholder="Confrm password"
-                    outlined
-                  ></v-text-field>
-                  <v-btn depressed dark v-on:click="signup" color="#4285f4" class="mr-3">Sign Up</v-btn>
-                  <v-btn outlined v-on:click="login" color="#4285f4">Login In</v-btn>
-              </div>
-              <div v-else>
-                  <v-text-field
-                    v-model="email"
-                    placeholder="Email"
-                    outlined
-                  ></v-text-field>
-                  <v-text-field
-                    v-model="password"
-                    placeholder="password"
-                    outlined
-                  ></v-text-field>
-                  <v-btn outlined v-on:click="login" class="indigo">Login Up</v-btn>
-                  <v-btn depressed v-on:click="signup" class="indigo">Sign Up</v-btn>
-                </div> -->
             </v-col>
           </v-row>
           <v-row>
@@ -64,10 +30,10 @@
                 <v-tab-item value="signup" class="px-4 py-5">
                   <v-form ref="signupform">
                     <p class="google-font mb-0" style="font-size:130%">
-                      <b>DevFest India Registraion</b>
+                      <b>IWD India Registraion</b>
                     </p>
                     <p class="google-font my-0">
-                      Sign Up to register for #DevFestIndia
+                      Sign Up to register for #IWDIndia2021
                     </p>
                     <br />
                     <p style="font-size:105%;color:black" class="py-0 my-0">
@@ -129,10 +95,10 @@
                       <v-col>
                         <v-form ref="signinform">
                         <p class="google-font mb-0" style="font-size:130%">
-                          <b>DevFest India Registraion</b>
+                          <b>IWD India Registraion</b>
                         </p>
                         <p class="google-font my-0">
-                          Sign In to register for #DevFestIndia
+                          Sign In to register for #IWDIndia2021
                         </p>
                         <br />
                         <p style="font-size:105%;color:black" class="py-0 my-0">
@@ -196,6 +162,7 @@
 <script>
 import FDK from "@/config/firebase";
 export default {
+  name: "CustomEmailPassAuthComponent",
   components: {},
   data() {
     return {

@@ -7,7 +7,7 @@
             <v-row>
               <v-col class="pb-0" md="3" lg="3">
                 <v-img
-                  :src="require('@/assets/img/FAQ.svg')"
+                  :src="require('@/assets/img/theme/3.png')"
                   style=""
                   width="80%"
                 ></v-img>

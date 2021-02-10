@@ -47,7 +47,7 @@ export default {
   components: {
     AppBar,
     MainView,
-    AppDrawer: () => import(/* webpackChunkName: "drawer", webpackPreload: true */"@/components/core/Drawer"),
+    AppDrawer: () => import(/* webpackChunkName: "Appdrawer", webpackPreload: true */"@/components/core/Drawer"),
     AppBottomNav: () => import(/* webpackChunkName: "bottomnav", webpackPreload: true */"@/components/core/BottomNav"),
     AppFooter: () => import(/* webpackChunkName: "footer", webpackPreload: true */"@/components/core/Footer"),
   },

@@ -5,14 +5,15 @@
       <v-col cols="12" md="6" class="order-2 order-md-1">
         <v-img
           alt="Vuetify Logo"
-          class="shrink mr-2 ml-n1"
+          class="shrink "
           contain
           :src="require('@/assets/img/wtmlogo.png')"
-          width="40%"
+          width="30vh"
         />
-      <!-- <p class="google-font " style="font-size:1.9em;"><span style="color:#4285FA"><b> Let's celebrate the post Diwali developer celebration</b></span></p> -->
+      <p class="google-font my-0" style="font-size:2.8em;"><span style="color:#4285FA"> International Women's Day </span></p>
+      <p class="google-font my-0" style="color:#5f6368;font-size:1.7em">India Summit 2021</p>
         <p
-          class="google-font mt-5 mb-5"
+          class="google-font mt-10 mb-5"
           style="font-size: 135%; font-weight: 700"
         >
           <span style="font-weight:400"
@@ -20,7 +21,7 @@
           >Online
         </p>
         <p class="google-font" style="font-size: 105%">
-          CDS Extended is valuable for your developer communities, and that the resources we provide will help you host amazing online events at the end of 2020, and the beginning of 2021! .
+          IWD 2021 is a celebration to recognize all the women who have influenced the tech industry and beyond, providing an invaluable experience of inspiring sessions and tech talks from experts in different domains.
         </p>
         <p class="google-font">
           <v-chip
@@ -63,14 +64,14 @@
             text-transform: capitalize;
             border-radius: 5px;
             font-size:110%;
-            padding: 00% 8%;
+            padding: 00% 6%;
           "
           class="google-font mr-3 mb-3 mt-6"
           >
-          <a style="color:#fff;text-decoration: none;" href="https://www.womentechmakers.com/initiatives" target="_blank">Become a Member</a>
+          <a style="color:#fff;text-decoration: none;" href="https://www.womentechmakers.com/members" target="_blank">Become a Member</a>
           </v-btn>
 
-        <v-btn
+        <!-- <v-btn
           dark
           color="#3D7FF5"
           depressed-
@@ -84,7 +85,7 @@
           "
           class="google-font mr-3 mb-3 mt-6"
           >IWD India 2021 Badge Soon</v-btn
-        >
+        > -->
         <!-- <v-btn disabled class="google-font mr-3 mb-3 mt-6" style="
                         text-transform: capitalize;
                     ">
@@ -109,7 +110,7 @@
         
       </v-col>
        <v-col cols="12" md="6" class="text-center pa-md-0 order-1 order-md-2">
-        <v-img class="" :src="require('@/assets/img/homeimage-iwd.png')" style="width:70%;margin:0 auto;">
+        <v-img class="" :src="require('@/assets/img/sideimg.png')" style="width:80%;margin:0 auto;">
         </v-img>
       </v-col>
     </v-row>
@@ -120,7 +121,7 @@
 export default {
   name: "HomeHero",
   data: () => ({
-    hashtags: ["WomenTechmakers","IWDIndia2021","CouragetoCreate"],
+    hashtags: ["IWDIndia2021","CouragetoCreate"],
   }),
 };
 </script>
