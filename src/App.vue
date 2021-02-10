@@ -42,14 +42,20 @@
 <script>
 import MainView from /* webpackChunkName: "views", webpackPreload: true */ "@/components/core/Views";
 import AppBar from /* webpackChunkName: "appbar", webpackPreload: true */"@/components/core/AppBar";
+import AppDrawer from /* webpackChunkName: "Appdrawer", webpackPreload: true */"@/components/core/Drawer";
+import AppBottomNav from /* webpackChunkName: "bottomnav", webpackPreload: true */"@/components/core/BottomNav"
+import AppFooter from /* webpackChunkName: "footer", webpackPreload: true */"@/components/core/Footer"
 export default {
   name: "App",
   components: {
     AppBar,
     MainView,
-    AppDrawer: () => import(/* webpackChunkName: "Appdrawer", webpackPreload: true */"@/components/core/Drawer"),
-    AppBottomNav: () => import(/* webpackChunkName: "bottomnav", webpackPreload: true */"@/components/core/BottomNav"),
-    AppFooter: () => import(/* webpackChunkName: "footer", webpackPreload: true */"@/components/core/Footer"),
+    AppDrawer,
+    AppBottomNav,
+    AppFooter
+    // AppDrawer: () => import(/* webpackChunkName: "Appdrawer", webpackPreload: true */"@/components/core/Drawer"),
+    // AppBottomNav: () => import(/* webpackChunkName: "bottomnav", webpackPreload: true */"@/components/core/BottomNav"),
+    // AppFooter: () => import(/* webpackChunkName: "footer", webpackPreload: true */"@/components/core/Footer"),
   },
 
   data: () => ({

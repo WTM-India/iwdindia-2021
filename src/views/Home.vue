@@ -58,6 +58,8 @@
 
 <script>
 import Hero from /* webpackChunkName: "hero", webpackPreload: true */ "@/components/home/Hero"
+import SocialInfo from /* webpackChunkName: "homecommunitysocial", webpackPreload: true */'@/components/common/CommunitySocial'
+import Faqs from /* webpackChunkName: "homeFaqs", webpackPreload: true */ '@/components/home/Faqs'
 export default {
   metaInfo: {
       title: 'Home',
@@ -79,8 +81,10 @@ export default {
     // breakImage: () => import(/* webpackChunkName: "homebreakimage", webpackPreload: true */ '@/components/common/breakImage'),
     Theme: () => import(/* webpackChunkName: "homeTheme", webpackPreload: true */ '../components/home/Theme'),
     PastEvent: () => import(/* webpackChunkName: "homePastEvent", webpackPreload: true */ '../components/home/pastevent'),
-    SocialInfo: () => import(/* webpackChunkName: "homecommunitysocial", webpackPreload: true */'@/components/common/CommunitySocial'),
-    Faqs: () => import(/* webpackChunkName: "homeFaqs", webpackPreload: true */'@/components/home/Faqs'),
+    SocialInfo,
+    // SocialInfo: () => import(/* webpackChunkName: "homecommunitysocial", webpackPreload: true */'@/components/common/CommunitySocial'),
+    Faqs,
+    // Faqs: () => import(/* webpackChunkName: "homeFaqs", webpackPreload: true */ '@/components/home/Faqs'),
     // Speakers: () => import(/* webpackChunkName: "homeSpeakers", webpackPreload: true */'@/components/home/Speakers'),
     // Schedule: () => import(/* webpackChunkName: "homeSchedule", webpackPreload: true */'@/components/home/Schedule'),
   },
