@@ -60,14 +60,14 @@
           depressed
           large
           style="
-            text-transform: lowercase;
+            text-transform: capitalize;
             border-radius: 5px;
             font-size:110%;
             padding: 00% 8%;
           "
           class="google-font mr-3 mb-3 mt-6"
           >
-          <a style="color:#fff">Become a Member</a>
+          <a style="color:#fff;text-decoration: none;" href="https://www.womentechmakers.com/initiatives" target="_blank">Become a Member</a>
           </v-btn>
 
         <v-btn
@@ -82,9 +82,8 @@
             font-size:110%;
             padding: 00% 2%;
           "
-          to="/badge"
           class="google-font mr-3 mb-3 mt-6"
-          >IWD India Badge</v-btn
+          >IWD India 2021 Badge Soon</v-btn
         >
         <!-- <v-btn disabled class="google-font mr-3 mb-3 mt-6" style="
                         text-transform: capitalize;
