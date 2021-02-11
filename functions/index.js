@@ -19,7 +19,7 @@ const sendSendGridMail = async (snap) => {
         from: "WTM India <no-reply@iwdindia.in>",
         dynamicTemplateData: { name: fname },
         to: email,
-        templateId: "d-afb23cad2155441b9c813d1202975487",
+        templateId: "d-9b1a4dee449e4c4f833b2bcd4c95d0b3",
       })
       .then((res) => {
         console.log("Called");
