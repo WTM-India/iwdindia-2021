@@ -1,7 +1,7 @@
 <template>
   <v-container fluid class="fill-height my-5 py-md-5">
     <v-row align="center" justify-md="center" class="fill-height">
-      <v-col md="3">
+      <v-col md="4" lg="3" cols="12">
         <v-img
           alt="Vuetify Logo"
           class="shrink "
@@ -10,21 +10,17 @@
           width="100%"
         />
       </v-col>
-      <v-col md="9" class="px-md-10">
+      <v-col md="8" lg="9" cols="12" class="px-md-10">
         <p class="google-font" style="font-size:2.0em;">
           <span style=""
             >Women Techmakers <br>International Women’s Day India Summit 2020</span
           >
         </p>
-        <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga neque
-          optio vel, amet eveniet harum veniam, perspiciatis eius corrupti eaque
-          aliquid sequi? Sapiente itaque non fuga quidem eaque accusantium iste.
+        <p class="google-font" style="font-size:1.1em;">
+          IWD India 2020 had seen unprecedented love and adulation from women and allies all over the world. Women Ambassadors from across India had gotten together to showcase exemplary teamwork, a passion to win and the courage to create something that hadn't been done before. 
         </p>
-        <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga neque
-          optio vel, amet eveniet harum veniam, perspiciatis eius corrupti eaque
-          aliquid sequi? Sapiente itaque non fuga quidem eaque accusantium iste.
+        <p class="google-font" style="font-size:1.1em;">
+          The event was a phenomenal success, but the best part was that it brought out the sisterhood between communities. Together, we all rose. The team had tons of learnings and are now all set to make IWD India 2021 all the more worthy of your time. Stay tuned for a bigger, better and a never before experience.
         </p>
         <v-btn
           dark

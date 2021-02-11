@@ -1,5 +1,5 @@
 let modulesData = {
-    getKey : () => "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",
+    getKey : () => "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",
 }
 
 module.exports = modulesData

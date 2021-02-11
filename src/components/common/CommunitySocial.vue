@@ -9,7 +9,7 @@
           v-on="on"
           color="#5f6368"
           rel="noreferrer"
-          href="https://twitter.com/WebDevsIn"
+          href="https://twitter.com/wtmindia"
           target="_blank"
           slot="activator"
         >
@@ -28,7 +28,7 @@
           color="#5f6368"
           v-on="on"
           rel="noreferrer"
-          href="https://www.youtube.com/c/GDG-India"
+          href="https://www.youtube.com/c/WomenTechmakersIndia/"
           target="_blank"
           slot="activator"
         >

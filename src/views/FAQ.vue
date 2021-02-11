@@ -1,5 +1,5 @@
 <template>
-  <v-main class="my-5">
+  <v-main class="my-5 px-5">
     <v-container fluid>
       <v-row justify="center" align="start" class="my-5 py-5">
         <v-col md="10" lg="10" sm="11" cols="12">
@@ -7,7 +7,7 @@
             <v-row>
               <v-col class="pb-0" md="3" lg="3">
                 <v-img
-                  :src="require('@/assets/img/theme/3.png')"
+                  :src="require('@/assets/img/FAQ.svg')"
                   style=""
                   width="80%"
                 ></v-img>

@@ -3,11 +3,18 @@
     <v-row justify="center" align="center" class="py-md-5">
       
       <v-col cols="12" md="6" class="order-2 order-md-1">
-        <v-img
+        <!-- <v-img
           alt="Vuetify Logo"
           class="shrink "
           contain
           :src="require('@/assets/img/wtmlogo.png')"
+          width="30vh"
+        /> -->
+        <v-img
+          alt="Vuetify Logo"
+          class="shrink ml-1"
+          contain
+          :src="'https://www.womentechmakers.com/static/assets/imgs/misc/logo.png'"
           width="30vh"
         />
       <p class="google-font my-0" style="font-size:2.8em;"><span style="color:#4285FA"> International Women's Day </span></p>
@@ -21,7 +28,7 @@
           >Online
         </p>
         <p class="google-font" style="font-size: 105%">
-          IWD 2021 is a celebration to recognize all the women who have influenced the tech industry and beyond, providing an invaluable experience of inspiring sessions and tech talks from experts in different domains.
+          IWD India 2021 is a coming together of women in technology from across the country to celebrate each other and to learn and gain inspiration from many exemplary women who had the courage to create despite the challenging times.
         </p>
         <p class="google-font">
           <v-chip

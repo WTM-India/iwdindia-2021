@@ -4,13 +4,13 @@
     <v-list-item>
       <v-list-item-content>
         <v-list-item-title class="google-font py-1" style="font-size: 130%">
-          <!-- <v-img
+          <v-img
              :src="require('@/assets/img/logo.png')"
             style=""
             width="5vh"
-          ></v-img> -->
-         
-          CDS Extended India
+          ></v-img>
+          <span style="font-size:80%">Woment Techmakers</span><br>
+          IWD India Summit 2021
         </v-list-item-title>
       </v-list-item-content>
     </v-list-item>

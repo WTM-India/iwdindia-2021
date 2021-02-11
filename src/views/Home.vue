@@ -29,7 +29,7 @@
     </v-container> 
     <!-- <breakImage colorCode="#f9ba00" height="80px" />  -->
     <v-container fluid class="" >
-      <v-row align="center" justify="center" class="mb-5" style="background:#FAFAFA;border-bottom:5px solid #2C77DF;">
+      <v-row align="center" justify="center" class="mb-5" style="border-bottom:5px solid #2C77DF;">
         <v-col cols="12" md="10" lg="10" sm="10">
           <PastEvent />
         </v-col>

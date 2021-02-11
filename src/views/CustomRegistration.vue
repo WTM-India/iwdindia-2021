@@ -12,18 +12,15 @@
         <v-col md="7" sm="8" lg="5" cols="12">
           <div style="padding:10px;" class="google-font">
             <p class="" style="font-size:2.0em;">
-              <span style="color:#424242">{{maindata.eventname}}</span> | 
+              <span style="color:#424242">{{maindata.eventname}} 2021</span> | 
               <span style="color:#4285f4">Registration</span>
             </p>
-            <p class="">
-              India's biggest developer conclave with 40+ GDG
-              communities.
-              <br />Separated by distance, united by passion.
+            <p style="font-size:1.1em">
+              IWD India 2021 is a coming together of women in technology from across the country to celebrate each other and to learn and gain inspiration from many exemplary women who had the courage to create despite the challenging times.
+            
             </p>
-            <p class="">
-              The mega event is set to happen on
-              <b>March 20th & 21st</b> with the
-              line-up of expert speakers, multiple tracks, fun engagements and many more.
+            <p style="font-size:1.1em">
+              These two days <b>March 20th & 21st</b> can be enjoyed in the comfort of your homes where we have inspirational speakers, discussions over chat and workshops to help you create amazing assets for yourself!
             </p>
           </div>
 

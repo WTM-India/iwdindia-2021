@@ -18,18 +18,13 @@
           March 20 & 21, 2021 | Online
         </p>
         <p class="google-font" style="font-size:1.2em">
-          Women Techmakers community provides visibility, community and
-          resources for women in tech to join, thrive and lead in the industry.
-          As a part of our International Women’s Day celebrations, we invite
-          women and allies to join us in this celebration along with their
-          communities.
+          Women Techmakers community provides visibility, community and resources for women to join, thrive and lead in the tech industry. 
           <br /><br />
-          This event is put together by a group of amazing, passionate women who
-          have an undying courage to create extraordinary things. During this 2
-          days online event, you will get a chance to learn from our phenomenal
-          speakers which will surely help you in accelerating your career.
+          As a part of our International Women’s Day celebrations, we invite women and allies to join us in this celebration along with their communities. This event is put together by a group of amazing, passionate women who have an undying courage to create extraordinary things.
+          <br />
+          These two days can be enjoyed in the comfort of your homes where we have inspirational speakers, discussions over chat and workshops to help you create amazing assets for yourself!
         </p>
-        <p class="google-font">
+        <p class="google-font mt-5">
           <v-chip
             v-for="item in hashtags"
             :key="item"

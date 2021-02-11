@@ -29,6 +29,12 @@
       </v-row>
       <v-row justify="center" align="center">
         <v-col md="11" sm="11" xl="11" lg="11" cols="12" class="">
+          <a href="https://www.womentechmakers.com/" target="_blank"
+            rel="noreferrer"
+            class="grey--text text--darken-3 mr-4 google-font"
+            style="text-decoration:none;"
+          >About WTM Program</a>
+          <br class="hidden-md-and-up">
           <a href="https://developers.google.com/community/gdg" target="_blank"
             rel="noreferrer"
             class="grey--text text--darken-3 mr-4 google-font"
