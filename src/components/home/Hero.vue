@@ -24,11 +24,11 @@
           style="font-size: 135%; font-weight: 700"
         >
           <span style="font-weight:400"
-            >March 20-21, 2021&nbsp;|&nbsp;</span
+            >March 20th & 21st, 2021&nbsp;|&nbsp;</span
           >Online
         </p>
         <p class="google-font" style="font-size: 105%">
-          IWD India 2021 is a coming together of women in technology from across the country to celebrate each other and to learn and gain inspiration from many exemplary women who had the courage to create despite the challenging times.
+          IWD India 2021 is a coming together of women in technology and allies from across the country to celebrate each other and to learn and gain inspiration from many exemplary women who had the courage to create despite the challenging times.
         </p>
         <p class="google-font">
           <v-chip
@@ -62,8 +62,7 @@
           class="google-font mr-3 mb-3 mt-6"
           >Watch Now</v-btn
         > -->
-        <v-btn
-          dark
+        <v-btn to="registration" dark
           color="#3D7FF5"
           depressed
           large
@@ -73,9 +72,24 @@
             font-size:110%;
             padding: 00% 6%;
           "
+          class="google-font mr-3 mb-3 mt-6">
+                  Register Now!
+                </v-btn>
+        <v-btn
+          dark
+          color="#3D7FF5"
+          depressed
+          outlined
+          large
+          style="
+            text-transform: capitalize;
+            border-radius: 5px;
+            font-size:110%;
+            padding: 00% 6%;
+          "
           class="google-font mr-3 mb-3 mt-6"
           >
-          <a style="color:#fff;text-decoration: none;" href="https://www.womentechmakers.com/members" target="_blank">Become a Member</a>
+          <a style="color:#3D7FF5;text-decoration: none;" href="https://www.womentechmakers.com/members" target="_blank">Become a Member</a>
           </v-btn>
 
         <!-- <v-btn
@@ -93,11 +107,7 @@
           class="google-font mr-3 mb-3 mt-6"
           >IWD India 2021 Badge Soon</v-btn
         > -->
-        <!-- <v-btn disabled class="google-font mr-3 mb-3 mt-6" style="
-                        text-transform: capitalize;
-                    ">
-                  Registrations opening soon!
-                </v-btn> -->
+        
 
         <!-- <v-btn
           dark

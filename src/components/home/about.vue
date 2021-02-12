@@ -21,7 +21,7 @@
           Women Techmakers community provides visibility, community and resources for women to join, thrive and lead in the tech industry. 
           <br /><br />
           As a part of our International Women’s Day celebrations, we invite women and allies to join us in this celebration along with their communities. This event is put together by a group of amazing, passionate women who have an undying courage to create extraordinary things.
-          <br />
+          <br /><br />
           These two days can be enjoyed in the comfort of your homes where we have inspirational speakers, discussions over chat and workshops to help you create amazing assets for yourself!
         </p>
         <p class="google-font mt-5">

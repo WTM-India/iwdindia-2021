@@ -53,7 +53,7 @@
           "
           href="https://www.youtube.com/watch?v=CAfAKHq9DPk"
           class="google-font mr-3 mb-3 mt-6"
-          >Hightlight Video</v-btn
+          >Event Sizzle Reel</v-btn
         >
       </v-col>
     </v-row>

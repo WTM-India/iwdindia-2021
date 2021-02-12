@@ -41,7 +41,7 @@ export default {
       {
         name: "Mobile",
         content:
-          "Share learnings, community stories, and relevant expertise/resources between WTM Ambassadors, GDG Organizers and community members. ",
+          "Share learnings, community stories, and relevant expertise/resources with WTM Ambassadors, GDG Organizers and community members. ",
         img: "1.png",
       },
       {
@@ -59,7 +59,7 @@ export default {
       {
         name: "Machine Learning",
         content:
-          "Connect with a community of women leaders in technology across India and celebrate women's economic, political, and social achievements. ",
+          "Connect with a community of women leaders in technology across India and celebrate each others achievements.",
         img: "4.png",
       },
     ],

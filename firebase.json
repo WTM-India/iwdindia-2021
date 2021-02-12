@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "dev-iwdindia",
+    "site": "iwd-india-2021",
     "public": "dist",
     "ignore": [
       "firebase.json",

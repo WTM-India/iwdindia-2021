@@ -16,11 +16,11 @@
               <span style="color:#4285f4">Registration</span>
             </p>
             <p style="font-size:1.1em">
-              IWD India 2021 is a coming together of women in technology from across the country to celebrate each other and to learn and gain inspiration from many exemplary women who had the courage to create despite the challenging times.
+              IWD India 2021 is a coming together of women in technology and allies from across the country to celebrate each other and to learn and gain inspiration from many exemplary women who had the courage to create despite the challenging times.
             
             </p>
             <p style="font-size:1.1em">
-              These two days <b>March 20th & 21st</b> can be enjoyed in the comfort of your homes where we have inspirational speakers, discussions over chat and workshops to help you create amazing assets for yourself!
+              These two days <b>March 20th & 21st, 2021</b> can be enjoyed in the comfort of your homes where we have inspirational speakers, discussions over chat and workshops to help you create amazing assets for yourself!
             </p>
           </div>
 
@@ -554,7 +554,7 @@ export default {
               console.log(e);
             });
           }else{
-            user.sendEmailVerification().then(()=>{
+            user.sendEmailVerification().then((res)=>{
               self.emailVerified = false
             }).catch(e=>{
               console.log(e)

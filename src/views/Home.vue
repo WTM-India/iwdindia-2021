@@ -70,7 +70,7 @@ export default {
       },
       meta: [
         { charset: 'utf-8' },
-        { name: 'description', content: 'IWD India Description' },
+        { name: 'description', content: 'IWD India 2021 is a coming together of women in technology from across the country to celebrate each other and to learn and gain inspiration from many exemplary women who had the courage to create despite the challenging times' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' }
       ]
   },
