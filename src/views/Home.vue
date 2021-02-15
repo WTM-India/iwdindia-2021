@@ -21,7 +21,7 @@
     </v-container>
     <!-- <breakImage colorCode="#1e8e3e" height="80px" /> -->
     <v-container fluid class="">
-      <v-row align="start" justify="center" class="mb-md-5">
+      <v-row align="start" justify="center" class="mb-md-5" style="border-bottom: 5px solid rgb(44, 119, 223);">
         <v-col cols="12" md="11" lg="11" sm="11">
           <Theme />
         </v-col>
