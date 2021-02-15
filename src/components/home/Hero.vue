@@ -105,7 +105,7 @@
             padding: 00% 2%;
           "
           class="google-font mr-3 mb-3 mt-6"
-          >IWD India 2021 Badge Soon</v-btn
+          >IWD India 2021 Badge</v-btn
         > -->
         
 

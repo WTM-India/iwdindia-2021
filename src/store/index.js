@@ -43,15 +43,15 @@ export default new Vuex.Store({
       //     showBottomNav: true,
       //   },
       // },
-      // {
-      //   text: "Team",
-      //   to: "/team",
-      //   icon: "mdi-account-multiple",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: false,
-      //   },
-      // },
+      {
+        text: "Team",
+        to: "/team",
+        icon: "mdi-account-multiple",
+        meta: {
+          showToolbar: true,
+          showBottomNav: false,
+        },
+      },
       {
         text: "Register",
         to: "/registration",
@@ -88,15 +88,15 @@ export default new Vuex.Store({
           showBottomNav: false,
         },
       },
-      // {
-      //   text: "Badge",
-      //   to: "/badge",
-      //   icon: "mdi-sticker-emoji",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: true,
-      //   },
-      // },
+      {
+        text: "Badge",
+        to: "/badge",
+        icon: "mdi-sticker-emoji",
+        meta: {
+          showToolbar: true,
+          showBottomNav: true,
+        },
+      },
     ],
 },
   getters: {

@@ -10,11 +10,11 @@ const routes = [
     name: 'Home',
     component: Home
   },
-  // {
-  //   path: '/team',
-  //   name: 'Team',
-  //   component: () => import(/* webpackChunkName: "aboutPage" */ '../views/Team.vue')
-  // },
+  {
+    path: '/team',
+    name: 'Team',
+    component: () => import(/* webpackChunkName: "aboutPage" */ '../views/Team.vue')
+  },
   // {
   //   path: '/speakers',
   //   name: 'Speakers',
@@ -35,11 +35,11 @@ const routes = [
     name: 'FAQ',
     component: () => import(/* webpackChunkName: "faqPage" , webpackPreload: true */ '../views/FAQ.vue')
   },
-  // {
-  //     path: '/badge',
-  //     name: 'Badge',
-  //     component: () => import(/* webpackChunkName: "badge", webpackPreload: true */ '../views/Badge.vue')
-  //   },
+  {
+      path: '/badge',
+      name: 'Badge',
+      component: () => import(/* webpackChunkName: "badge", webpackPreload: true */ '../views/Badge.vue')
+    },
   {
     path: '/registration',
     name: 'Registraton',

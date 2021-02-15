@@ -16,10 +16,10 @@
                     font-weight: 500;
                   "
           >
-            CDS Extended Badge
+            IWD India 2021 Badge
           </h1>
           <p class="google-font" style="font-size:120%">
-            Generate your #CDSExtendedIndia Badge
+            Generate your #IWDIndia Badge
           </p>
         </v-col>
       </v-row>
@@ -84,7 +84,7 @@
 </template>
 
 <script>
-import gdgImage from "@/assets/img/gdg.png";
+import gdgImage from "@/assets/img/badge.png";
 export default {
   name: "badge",
   data: () => ({
@@ -180,7 +180,7 @@ export default {
       } else {
         this.ctx.canvas.width = 500;
         this.ctx.canvas.height = 500;
-        this.ctx.fillStyle = "#4285FA";
+        this.ctx.fillStyle = "#fff";
         this.ctx.fillRect(0, 0, this.canvas.width, this.canvas.height);
       }
 

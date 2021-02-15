@@ -15,9 +15,10 @@
         <v-avatar size="100">
           <!-- :src="require('@/assets/img/team/' + item.image)" :lazy-src="require('@/assets/img/team/' + item.image)" -->
           <img
-            :src="getImgUrl(item.image)"
-            :lazy-src="getImgUrl(item.image)"
+            :src="getTeamImgUrl(item.image)"
+            :lazy-src="getTeamImgUrl(item.image)"
             :alt="item.name"
+            class="img-wrapper"
           />
         </v-avatar>
         <p class="mt-3 mb-0 google-font mb-0" style="font-size: 110%">
@@ -37,9 +38,10 @@
             <v-col md="4" cols="12" class="text-center">
               <v-avatar size="100">
                 <img
-                  :src="getImgUrl(item.image)"
-                  :lazy-src="getImgUrl(item.image)"
+                  :src="getTeamImgUrl(item.image)"
+                  :lazy-src="getTeamImgUrl(item.image)"
                   :alt="item.name"
+                  class="img-wrapper"
                 />
               </v-avatar>
               <p class="google-font mt-3 mb-0" style="font-size: 140%">
@@ -90,3 +92,9 @@ export default {
   //   },
 };
 </script>
+<style scoped>
+.img-wrapper {
+  object-fit: cover !important;
+  object-position: center !important;
+}
+</style>
