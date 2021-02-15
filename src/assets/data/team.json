@@ -375,20 +375,6 @@
     }
   },
   {
-    "name": "Aayush Agrawal",
-    "community": {
-      "name": "GDG Cloud Indore",
-      "designation": "GDG Cloud Organizer"
-    },
-    "image": "aayush.jpg",
-    "bio": "I am a freelance automation developer that makes bots! Bots that can scrape websites, place orders, just about anything that a computer can do ",
-    "social": {
-      "twitter": "https://twitter.com/agentaayush",
-      "linkedin": "https://www.linkedin.com/in/aayushagrawal101/",
-      "website": ""
-    }
-  },
-  {
     "name": "Vandana Pv",
     "community": {
       "name": "GDG Hyderabad",
@@ -427,6 +413,20 @@
     "social": {
       "twitter": "https://twitter.com/riyathakurta",
       "linkedin": "https://www.linkedin.com/in/riya-guha-thakurta",
+      "website": ""
+    }
+  },
+  {
+    "name": "Lakshya Sivaramakrishnan",
+    "community": {
+      "name": "Women Techmakers",
+      "designation": ""
+    },
+    "image": "lakshya.jpg",
+    "bio": "Lakshya manages the Women Techmakers Program in India. She is a data science enthusiast building tech expertise in Machine Learning and Google Cloud. She enjoys nurturing communities and empowering more women to join, thrive and lead in the tech industry.",
+    "social": {
+      "twitter": "https://twitter.com/lakshyas90/",
+      "linkedin": "https://www.linkedin.com/in/lakshyasi/",
       "website": ""
     }
   }
