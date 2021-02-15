@@ -7,17 +7,16 @@
         class=""
         style="border-bottom:1px solid #e0e0e0"
       >
-        <v-col md="10" lg="10" sm="11" cols="12" class="my-md-12">
-          <h1
-            class="google-font"
+        <v-col md="10" lg="10" sm="11" cols="12" class="my-md-12 px-4">
+          <p
+            class="google-font mb-0 grey--text text--darken-2"
             style="
-                    font-size:2.5em;
-                    line-height: 1.22;
+                    font-size:1.9em;
                     font-weight: 500;
                   "
           >
             IWD India 2021 Badge
-          </h1>
+          </p>
           <p class="google-font" style="font-size:120%">
             Generate your #IWDIndia Badge
           </p>
@@ -68,6 +67,7 @@
                     </div>
                   </div>
                 </div>
+                <p><span><span style="color:red;">*</span>&nbsp; We respect your privacy and are not storing your pictures on our servers.</span></p>
               </v-col>
               <v-col class="text-center grey lighten-4 py-md-10 py-5 order-md-2 order-1" style="" md="9" cols="12">
                 <canvas class=""></canvas>
@@ -254,8 +254,8 @@ export default {
     0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12);
   --shadow-elevation-2: 0 3px 5px -1px rgba(0, 0, 0, 0.2),
     0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12);
-  --button-color: #4285fa;
-  --button-color-hover: #4285fa;
+  --button-color: #2B81D6;
+  --button-color-hover: #2B81D6;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -393,13 +393,13 @@ canvas {
   border-radius: 50%;
   width: 64px;
   height: 64px;
-  background-color: #4285fa;
+  background-color: #2B81D6;
   box-shadow: var(--shadow-elevation-1);
   transition: background-color 100ms ease, box-shadow 100ms ease;
 }
 
 .download-fab:hover {
-  background-color: #4285fa;
+  background-color: #2B81D6;
   box-shadow: var(--shadow-elevation-2);
 }
 
@@ -429,8 +429,8 @@ canvas {
 }
 
 .blue-btn {
-  background-color: #4285fa;
-  border-color: #4285fa;
+  background-color: #2B81D6;
+  border-color: #2B81D6;
   text-transform: capitalize;
   border-radius: 5px;
   color: #fff;
@@ -444,7 +444,7 @@ canvas {
   text-transform: capitalize;
   border-radius: 5px;
   border: 1px solid rgb(224, 224, 224);
-  color: #4285fa;
+  color: #2B81D6;
   background-color: white;
   text-decoration: none;
   font-size: 18px;

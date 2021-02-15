@@ -12,16 +12,14 @@
                   width="80%"
                 ></v-img> -->
                 <!-- <h1 class="google-font mb-5">FAQ</h1> -->
-                <h1
-                  class="google-font mt-6"
+                <p
+                  class="google-font mt-6 grey--text text--darken-2 mb-0"
                   style="
-                    font-size:2.9em;
-                    font-weight: 500;
-                    color:#4285F4
+                    font-size:1.9em;
                   "
                 >
                   FAQ
-                </h1>
+                </p>
                 <p class="google-font my-0">Need Answers?</p>
                 <p class="google-font my-0">Everything you need to know, find them here.</p>
               </v-col>

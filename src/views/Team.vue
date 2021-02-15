@@ -1,6 +1,6 @@
 <template>
   <v-main class="">
-    <v-container fluid class="grey lighten-4">
+    <v-container fluid class="grey lighten-4 py-10">
       <v-row justify="center" align="center" v-if="loading">
         <v-col cols="12">
           <v-progress-circular
@@ -14,10 +14,11 @@
         <v-col md="10" lg="10" sm="11" cols="12">
           <v-container>
             <v-row class>
-              <v-col class="mb-5">
-                <h1 class="google-font mb-7 grey--text text--darken-2">
-                  Our Team
-                </h1>
+              <v-col class="mb-5 mb-7 ">
+                <p style="font-size:1.9em;" class="google-font grey--text text--darken-2 mb-0">
+                  Our goal as a team is to empower women to thrive in tech and nurture communities.
+                </p>
+                <p class="google-font">We know that when women support each other, incredible things happen. We volunteer to encourage,elevate and support women and underrepresented groups in the tech industry.</p>
               </v-col>
             </v-row>
           </v-container>
@@ -27,7 +28,7 @@
 
     <v-container fluid class="my-5 py-5">
       <v-row justify="center" align="center" class="px-0">
-        <v-col md="10" lg="10" sm="11" cols="12" style="margin-top: -150px">
+        <v-col md="10" lg="10" sm="11" cols="12" style="margin-top: -165px">
           <v-container fluid v-if="team.length > 0">
             <v-row class>
               <v-col

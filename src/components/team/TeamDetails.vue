@@ -34,7 +34,7 @@
     <v-card v-if="dialog">
       <v-card-text class="pa-5">
         <v-container>
-          <v-row align="center" justify="center">
+          <v-row align="start" justify="center">
             <v-col md="4" cols="12" class="text-center">
               <v-avatar size="100">
                 <img
