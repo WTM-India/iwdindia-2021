@@ -88,15 +88,15 @@ export default new Vuex.Store({
           showBottomNav: false,
         },
       },
-      {
-        text: "Badge",
-        to: "/badge",
-        icon: "mdi-sticker-emoji",
-        meta: {
-          showToolbar: true,
-          showBottomNav: true,
-        },
-      },
+      // {
+      //   text: "Badge",
+      //   to: "/badge",
+      //   icon: "mdi-sticker-emoji",
+      //   meta: {
+      //     showToolbar: true,
+      //     showBottomNav: true,
+      //   },
+      // },
     ],
 },
   getters: {
