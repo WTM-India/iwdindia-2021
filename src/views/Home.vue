@@ -61,19 +61,19 @@ import Hero from /* webpackChunkName: "hero", webpackPreload: true */ "@/compone
 import SocialInfo from /* webpackChunkName: "homecommunitysocial", webpackPreload: true */'@/components/common/CommunitySocial'
 import Faqs from /* webpackChunkName: "homeFaqs", webpackPreload: true */ '@/components/home/Faqs'
 export default {
-  metaInfo: {
-      title: 'Home',
-      titleTemplate: '%s | IWD India 2021',
-      htmlAttrs: {
-        lang: 'en',
-        amp: true
-      },
-      meta: [
-        { charset: 'utf-8' },
-        { name: 'description', content: 'IWD India 2021 is a coming together of women in technology from across the country to celebrate each other and to learn and gain inspiration from many exemplary women who had the courage to create despite the challenging times' },
-        { name: 'viewport', content: 'width=device-width, initial-scale=1' }
-      ]
-  },
+  // metaInfo: {
+  //     title: 'Home',
+  //     titleTemplate: '%s | IWD India 2021',
+  //     htmlAttrs: {
+  //       lang: 'en',
+  //       amp: true
+  //     },
+  //     meta: [
+  //       { charset: 'utf-8' },
+  //       { name: 'description', content: 'IWD India 2021 is a coming together of women in technology from across the country to celebrate each other and to learn and gain inspiration from many exemplary women who had the courage to create despite the challenging times' },
+  //       { name: 'viewport', content: 'width=device-width, initial-scale=1' }
+  //     ]
+  // },
   name: "Home",
   components: {
     Hero,

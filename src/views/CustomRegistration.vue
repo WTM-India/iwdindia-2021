@@ -90,7 +90,7 @@
                     Email
                     <span style="color:#ff5252;">*</span>
                   </p>
-                  <v-text-field
+                  <v-text-field autocomplete="off"
                     v-model="response.email"
                     placeholder="Email"
                     outlined
@@ -102,7 +102,7 @@
                     Name
                     <span style="color:#ff5252;">*</span>
                   </p>
-                  <v-text-field
+                  <v-text-field autocomplete="off"
                     v-model="response.name"
                     placeholder="Name"
                     :rules="[rules.required]"
@@ -114,7 +114,7 @@
                     City
                     <span style="color:#ff5252;">*</span>
                   </p>
-                  <v-text-field
+                  <v-text-field autocomplete="off"
                     v-model="response.city"
                     placeholder="City"
                     :rules="[rules.required]"
@@ -126,7 +126,7 @@
                     Country
                     <span style="color:#ff5252;">*</span>
                   </p>
-                  <v-text-field
+                  <v-text-field autocomplete="off"
                     v-model="response.country"
                     placeholder="Country"
                     :rules="[rules.required]"
@@ -138,7 +138,7 @@
                     Company / Institute Name
                     <span style="color:#ff5252;">*</span>
                   </p>
-                  <v-text-field
+                  <v-text-field autocomplete="off"
                     v-model="response.org"
                     placeholder="Company / Institute Name"
                     :rules="[rules.required]"
@@ -150,7 +150,7 @@
                     Role / Designation
                     <span style="color:#ff5252;">*</span>
                   </p>
-                  <v-text-field
+                  <v-text-field autocomplete="off"
                     v-model="response.role"
                     placeholder="Role / Designation"
                     :rules="[rules.required]"
@@ -326,7 +326,7 @@
                   <p style="font-size:105%;color:black" class="mt-10">
                     If you have an event code, you can add it in here.
                   </p>
-                  <v-text-field
+                  <v-text-field autocomplete="off"
                     v-model="response.code"
                     placeholder="Code"
                     outlined
