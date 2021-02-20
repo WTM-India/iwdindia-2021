@@ -224,7 +224,7 @@ export default {
     download() {
       const a = document.createElement("a");
       const url = this.canvas.toDataURL("image/png;base64");
-      a.download = "badge.png";
+      a.download = "#IWDIndia2021_badge.png";
       a.href = url;
 
       a.click();
