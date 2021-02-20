@@ -15,10 +15,10 @@
           <v-container>
             <v-row class>
               <v-col class="mb-5 mb-7 ">
-                <p style="font-size:1.9em;" class="google-font grey--text text--darken-2 mb-0">
+                <p style="font-size:1.9em;" class="google-font grey--text text--darken-2 mb-1">
                   Our goal as a team is to empower women to thrive in tech and nurture communities.
                 </p>
-                <p class="google-font">We know that when women support each other, incredible things happen. We volunteer to encourage,elevate and support women and underrepresented groups in the tech industry.</p>
+                <p class="google-font">We know that when women support each other, incredible things happen. We volunteer to encourage, elevate and support women and under-represented groups in the tech industry.</p>
               </v-col>
             </v-row>
           </v-container>
