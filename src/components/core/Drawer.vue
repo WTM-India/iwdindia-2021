@@ -9,7 +9,7 @@
             style=""
             width="5vh"
           ></v-img>
-          <span style="font-size:80%">Woment Techmakers</span><br>
+          <span style="font-size:80%">Women Techmakers</span><br>
           IWD India Summit 2021
         </v-list-item-title>
       </v-list-item-content>
