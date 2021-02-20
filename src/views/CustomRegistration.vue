@@ -407,7 +407,7 @@
                   <v-icon size="20px" left>mdi-facebook</v-icon>Share with your friends
                 </v-btn>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <!-- <v-btn
+                <v-btn
                   outlined
                   color="#4285f4"
                   style="text-transform: capitalize;border-radius:5px;border-color:#e0e0e0"
@@ -416,7 +416,7 @@
                   target="_blank"
                 >
                   <v-icon size="20px" left>mdi-inbox</v-icon>Generate Profile Badge
-                </v-btn> -->
+                </v-btn>
               </v-col>
             </v-row>
             <!-- Registration Success -->
@@ -453,7 +453,7 @@
                   <v-icon size="20px" left>mdi-facebook</v-icon>Share with your friends
                 </v-btn>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <!-- <v-btn
+                <v-btn
                   outlined
                   to="/badge"
                   rel="noreferrer"
@@ -462,7 +462,7 @@
                   class="google-font mt-2"
                 >
                   <v-icon size="20px" left>mdi-inbox</v-icon>Generate Profile Badge
-                </v-btn> -->
+                </v-btn>
               </v-col>
             </v-row>
             <!-- Already Registerd -->
