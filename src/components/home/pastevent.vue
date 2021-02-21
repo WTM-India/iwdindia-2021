@@ -1,16 +1,18 @@
 <template>
-  <v-container fluid class="fill-height my-5 py-md-5">
-    <v-row align="center" justify-md="center" class="fill-height">
-      <v-col md="4" lg="3" cols="12">
+<!-- style="border:1px solid #e0e0e0;border-radius:8px" -->
+  <v-container fluid class="py-0" >
+    <v-row align="center" justify-md="center" >
+      <v-col class="px-md-5" md="4" lg="3" cols="12">
         <v-img
-          alt="Vuetify Logo"
+          alt="WTM India Leads 2020"
           class="shrink "
           contain
           :src="require('@/assets/img/2020.jpg')"
           width="100%"
+          style="border-radius:8px"
         />
       </v-col>
-      <v-col md="8" lg="9" cols="12" class="px-md-10">
+      <v-col md="8" lg="9" cols="12" class="px-md-5">
         <p class="google-font" style="font-size:2.0em;">
           <span style=""
             >Women Techmakers <br>International Women’s Day India Summit 2020</span
