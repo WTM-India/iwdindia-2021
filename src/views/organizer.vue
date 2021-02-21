@@ -40,7 +40,12 @@
           <v-btn large color="primary" v-on:click="checkOrg">Next</v-btn>
         </v-col>
       </v-row>
-      <v-row v-else justify="center" align="center" class="pa-0 my-0 mb-md-15">
+      <v-row
+        v-show="passcodeStatus == false"
+        justify="center"
+        align="center"
+        class="pa-0 my-0 mb-md-15"
+      >
         <v-col md="10" lg="10" sm="11" cols="12" class="pa-0 ma-0">
           <v-container fluid class="pa-0 ma-0">
             <v-row class="ma-0 pa-0">
@@ -143,14 +148,12 @@ export default {
     image: "",
     ctx: null,
     banner: null,
-    nameRules: [
-        v => v.length <= 6 || 'Name must be less than 7 characters',
-    ],
+    nameRules: [(v) => v.length <= 6 || "Name must be less than 7 characters"],
   }),
   methods: {
-    checkOrg(){
-      if(this.passcode === "SBGH12"){
-        this.passcodeStatus = false
+    checkOrg() {
+      if (this.passcode === "SBGH12") {
+        this.passcodeStatus = false;
       }
     },
     upload(e) {
