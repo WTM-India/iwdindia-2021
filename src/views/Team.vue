@@ -1,6 +1,6 @@
 <template>
   <v-main class="">
-    <v-container fluid class="grey lighten-4 py-10">
+    <v-container fluid class="grey lighten-5 py-10">
       <v-row justify="center" align="center" v-if="loading">
         <v-col cols="12">
           <v-progress-circular

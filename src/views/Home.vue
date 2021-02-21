@@ -21,16 +21,16 @@
     </v-container>
     <!-- <breakImage colorCode="#1e8e3e" height="80px" /> -->
     <v-container fluid class="">
-      <v-row align="start" justify="center" class="mb-md-5" style="border-bottom: 5px solid rgb(44, 119, 223);">
+      <v-row align="start" justify="center" >
         <v-col cols="12" md="11" lg="11" sm="11">
           <Theme />
         </v-col>
       </v-row>
     </v-container> 
     <!-- <breakImage colorCode="#f9ba00" height="80px" />  -->
-    <v-container fluid class="" >
-      <v-row align="center" justify="center" class="mb-5" style="border-bottom:5px solid #2C77DF;">
-        <v-col cols="12" md="10" lg="10" sm="10">
+    <v-container fluid  >
+      <v-row align="center" justify="center" class="" style="border-bottom:1px solid #2C77DF;">
+        <v-col cols="12" md="10" lg="10" sm="10" class="mb-md-10">
           <PastEvent />
         </v-col>
       </v-row>
@@ -61,19 +61,6 @@ import Hero from /* webpackChunkName: "hero", webpackPreload: true */ "@/compone
 import SocialInfo from /* webpackChunkName: "homecommunitysocial", webpackPreload: true */'@/components/common/CommunitySocial'
 import Faqs from /* webpackChunkName: "homeFaqs", webpackPreload: true */ '@/components/home/Faqs'
 export default {
-  // metaInfo: {
-  //     title: 'Home',
-  //     titleTemplate: '%s | IWD India 2021',
-  //     htmlAttrs: {
-  //       lang: 'en',
-  //       amp: true
-  //     },
-  //     meta: [
-  //       { charset: 'utf-8' },
-  //       { name: 'description', content: 'IWD India 2021 is a coming together of women in technology from across the country to celebrate each other and to learn and gain inspiration from many exemplary women who had the courage to create despite the challenging times' },
-  //       { name: 'viewport', content: 'width=device-width, initial-scale=1' }
-  //     ]
-  // },
   name: "Home",
   components: {
     Hero,
