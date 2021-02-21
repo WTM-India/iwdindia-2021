@@ -97,6 +97,15 @@ export default new Vuex.Store({
           showBottomNav: true,
         },
       },
+      {
+        text: "Organizer",
+        to: "/organizer",
+        icon: "mdi-sticker-emoji",
+        meta: {
+          showToolbar: false,
+          showBottomNav: false,
+        },
+      }
     ],
 },
   getters: {
