@@ -4,7 +4,8 @@
     fixed
     color="white"
     elevate-on-scroll
-    style="box-shadow: 0 2px 6px 0 rgba(0,0,0,.12), inset  0 -1px 0 0 #dadce0"
+    style="box-shadow: 0 2px 6px 0 rgba(0,0,0,.12), inset  0 -1px 0 0 #dadce0;"
+    hide-on-scroll
   >
     <v-app-bar-nav-icon
       aria-label="Hamburger Btn"
@@ -27,11 +28,11 @@
         />
       </router-link>
     </div>
-    <v-toolbar-title class="google-font px-0" style="width: 200px">
+    <v-toolbar-title class="google-font px-0" style="width: 300px">
       <router-link
         to="/"
         class="google-font grey--text text--darken-2"
-        style="text-decoration: none; font-size: 100%"
+        style="text-decoration: none; font-size: 120%"
         >
         IWD India 2021
         </router-link
