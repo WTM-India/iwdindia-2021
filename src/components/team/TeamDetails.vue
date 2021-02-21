@@ -61,7 +61,7 @@
 
       <v-divider></v-divider>
 
-      <v-card-actions class="grey lighten-3">
+      <v-card-actions class="white">
         <v-spacer></v-spacer>
         <v-btn aria-label="close" color="primary" text @click="dialog = false"
           >Close</v-btn
