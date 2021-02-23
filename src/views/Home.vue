@@ -8,7 +8,7 @@
       </v-row>
     </v-container>
     <!-- <breakImage colorCode="#f8f9fa" height="120px" /> -->
-    <v-container fluid  class="my-0 py-0" :style="{'background-image': 'url(' + require('@/assets/img/bg.svg') + ')','background-repeat':'repeat-y'}">
+    <v-container fluid  class="my-0 py-0 bg-image" :style="{'background-image': 'url(' + require('@/assets/img/bg.svg') + ')','background-repeat':'repeat-y'}">
       <v-row
         align="center"
         justify="center"
@@ -78,4 +78,12 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+@media only screen and (max-width: 660px) {
+  .bg-image {    
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+}
+</style>
