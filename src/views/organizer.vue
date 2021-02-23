@@ -136,7 +136,7 @@
 </template>
 
 <script>
-import gdgImage from "@/assets/img/badge.png";
+import gdgImage from "@/assets/img/organizer.png";
 export default {
   name: "badge",
   data: () => ({
