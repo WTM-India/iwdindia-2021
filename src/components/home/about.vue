@@ -4,7 +4,7 @@
       <v-col md="5" sm="12" cols="12" class="">
         <v-img
           alt="Vuetify Logo"
-          class="shrink "
+          class="shrink bg-image"
           contain
           :src="require('@/assets/img/tagline.svg')"
           width="100%"
@@ -61,4 +61,5 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+</style>
