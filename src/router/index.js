@@ -15,11 +15,11 @@ const routes = [
     name: 'Team',
     component: () => import(/* webpackChunkName: "aboutPage" */ '../views/Team.vue')
   },
-  // {
-  //   path: '/speakers',
-  //   name: 'Speakers',
-  //   component: () => import(/* webpackChunkName: "speakersPage" */ '../views/Speakers.vue')
-  // },
+  {
+    path: '/speakers',
+    name: 'Speakers',
+    component: () => import(/* webpackChunkName: "speakersPage" */ '../views/Speakers.vue')
+  },
   // {
   //   path: '/schedule',
   //   name: 'Schedule',

@@ -2,8 +2,8 @@
     {
         "id": "501",
         "slide":"",
-        "title":"CWV: Catching Webinions on Vacation",
-        "description":"The talk will cover CWV at a high level, citing examples of good implementations and common learnings so far from the web ecosystem implementations.",
+        "title":"Taking Ownership of our Expertise",
+        "description":"Taking Ownership of our Expertise is about demystifying Impostor Syndrome and tips to step up & own our expertise!.",
         "track": "",
         "link": "",
         "format": "Day 1",
@@ -16,8 +16,8 @@
     {
         "id": "502",
         "slide":"",
-        "title":"Next level web apps",
-        "description":"Progressive Web Apps has come long way. In this talk, we will see how PWAs transitioned from mobile web to desktop and play store. ",
+        "title":"The Art of Storytelling with Data Science",
+        "description":"In a rapidly expanding field like data science, with data everywhere, it’s easy to merely focus on technical skills: coding, data types, algorithms. It’s quintessential to make data consumable for the business, explore promising tools and skills towards creating human-centered data science and speculate future directions for data analytics and visualizations. This talk will throw light on how data helps businesses solve problems worth millions and have tangible outcomes, roadmap to visualizations and best practices of storytelling with data!",
         "track": "",
         "link": "",
         "format": "Day 1",
@@ -30,8 +30,8 @@
     {
         "id": "503",
         "slide":"",
-        "title":"Fun with Web Apis",
-        "description":"Today Web is powerful platform, we can enhance user experience by adding advanced web capabilities features such as PWA, Project FUGU APIs and many more. This talk covers some WEB APIs which help in reducing the bridge betweem web app and native app such as contact picker apis, auto fill OTP etc.",
+        "title":"Learn to Write, Write to Learn",
+        "description":"Every engineer is also a writer, but you don't need to be an engineer to write. The workshop aims to guide and demystify some common misconceptions around content writing. Learn whom to write for and what to write for them by understanding what your audience might like to read. More importantly, this is a motivation to conquer the writer's block. Also its not just about writing, you will also gain some tips on how you can turn writing into a career.",
         "track": "",
         "link": "",
         "format": "Day 1",
@@ -44,8 +44,8 @@
     {
         "id": "504",
         "slide":"",
-        "title":"What's new in DevTools in Chrome 88?",
-        "description":"Devtools has always helped us to become a better developer over time & the same happened after the introduction of the latest & greatest features in Chrome 88. From a new CSS visualisation tool towards the new web vitals lane, let’s explore the possibilities of taking our debugging to the next level.",
+        "title":"Keynote speaker",
+        "description":"Keynote on - Courage To Create.",
         "track": "",
         "link": "",
         "format": "Day 1",
@@ -58,8 +58,8 @@
     {
         "id": "505",
         "slide":"",
-        "title":"Chrome and the Web in 2021",
-        "description":"",
+        "title":"Learn To Write, Write To Learn",
+        "description":"Every engineer is also a writer, but you don't need to be an engineer to write. The workshop aims to guide and demystify some common misconceptions around content writing. Learn whom to write for and what to write for them by understanding what your audience might like to read. More importantly, this is a motivation to conquer the writer's block. Also its not just about writing, you will also gain some tips on how you can turn writing into a career.",
         "track": "",
         "link": "",
         "format": "Day 1",
@@ -73,56 +73,27 @@
         "id": "506",
         "slide":"",
         "title":"Panel Discussion",
-        "description":"Panel Discussion",
+        "description":"Cross Community Panel Discussion.",
         "track": "",
         "link": "",
         "format": "Day 1",
         "date": "January 9th, 2021",
-        "timeDuration": "45",
+        "timeDuration": "30",
         "speakers": [
-            106, 107, 108, 109
+            106
         ]
-    },
-    {
-        "id": "507",
-        "slide":"",
-        "title":"Welcome Keynote",
-        "description":"Welcome Keynote",
-        "track": "",
-        "link": "",
-        "format": "Day 1",
-        "date": "January 9th, 2021",
-        "timeDuration": "5",
-        "speakers": [
-            
-        ]
-    },
-    {
-        "id": "508",
-        "slide":"",
-        "title":"Fun Activity",
-        "description":"Fun Activity",
-        "track": "",
-        "link": "",
-        "format": "Day 1",
-        "date": "January 9th, 2021",
-        "timeDuration": "15",
-        "speakers": [
-            
-        ]
-    },
-    {
-        "id": "509",
-        "slide":"",
-        "title":"Closing Note",
-        "description":"Closing Note",
-        "track": "",
-        "link": "",
-        "format": "Day 1",
-        "date": "January 9th, 2021",
-        "timeDuration": "15",
-        "speakers": [
-            
-        ]
-    }
+    },  {
+    "id": "507",
+    "slide":"https://docs.google.com/presentation/d/1s8t0H5Gx8h6aVFtGoAfFqY3oCDE4E1KzIzDrN-GULRg/edit?usp=sharing",
+    "title":"Enhance your Core Web Vitals with AMP",
+    "description":"This talk covers the unified guidance for quality signals & the metrics that are essential to delivering a great user experience on the web and helps the developer in making performant solutions for the users. It will also throw some light on the best practices and performance with Accelerated Mobile Pages (AMP).",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+        107
+    ]
+}
 ]

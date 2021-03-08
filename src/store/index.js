@@ -34,15 +34,15 @@ export default new Vuex.Store({
       //     showBottomNav: true,
       //   },
       // },
-      // {
-      //   text: "Speakers",
-      //   to: "/speakers",
-      //   icon: "mdi-account-switch",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: true,
-      //   },
-      // },
+      {
+        text: "Speakers",
+        to: "/speakers",
+        icon: "mdi-account-switch",
+        meta: {
+          showToolbar: true,
+          showBottomNav: true,
+        },
+      },
       {
         text: "Team",
         to: "/team",
