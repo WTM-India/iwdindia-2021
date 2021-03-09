@@ -12,7 +12,9 @@
       "linkedin": "https://www.linkedin.com/in/kathita/",
       "twitter": ""
     },
-    "sessionId": [501]
+    "sessionId": [
+      501
+    ]
   },
   {
     "id": "102",
@@ -27,7 +29,9 @@
       "twitter": "https://twitter.com/rpdesai24",
       "linkedin": "https://www.linkedin.com/in/rashidesai2/"
     },
-    "sessionId": [502]
+    "sessionId": [
+      502
+    ]
   },
   {
     "id": "103",
@@ -42,7 +46,9 @@
       "twitter": "https://twitter.com/DRVaya",
       "linkedin": "https://linkedin.com/in/dharmeshvaya"
     },
-    "sessionId": [503]
+    "sessionId": [
+      503
+    ]
   },
   {
     "id": "104",
@@ -57,7 +63,9 @@
       "twitter": "https://twitter.com/Sairee",
       "linkedin": "https://www.linkedin.com/in/sairee"
     },
-    "sessionId": [504]
+    "sessionId": [
+      504
+    ]
   },
   {
     "id": "105",
@@ -72,23 +80,27 @@
       "twitter": "https://twitter.com/BhavaniRavi_",
       "linkedin": "https://linkedin.com/in/bhavanir"
     },
-    "sessionId": [505]
+    "sessionId": [
+      503
+    ]
   },
   {
-  "id": "106",
-  "name": "Shilpa Garg",
-  "company": {
-    "name": "Magic Software",
-    "designation": "Lead AI Consultant"
+    "id": "106",
+    "name": "Shilpa Garg",
+    "company": {
+      "name": "Magic Software",
+      "designation": "Lead AI Consultant"
+    },
+    "image": "",
+    "bio": "Shilpa is a Software Engineer presently working in the field of Machine Learning(NLP). She is a Tech Speaker, Google MLCC Facilitator, python mentor at 1 million Women to Tech by Oxford Entreprenurers & presently working as Lead AI Consultant in Edtech. Company, with a total experience of 5+ years in the Industry. She is organiser of GDG New Delhi & WTM Ambassador as well. She loves community building, Innovation and empowering Women in Tech.\n",
+    "social": {
+      "twitter": "https://twitter.com/shilpa1994",
+      "linkedin": "https://www.linkedin.com/in/shilpagarg13"
+    },
+    "sessionId": [
+      505
+    ]
   },
-  "image": "",
-  "bio": "Shilpa is a Software Engineer presently working in the field of Machine Learning(NLP). She is a Tech Speaker, Google MLCC Facilitator, python mentor at 1 million Women to Tech by Oxford Entreprenurers & presently working as Lead AI Consultant in Edtech. Company, with a total experience of 5+ years in the Industry. She is organiser of GDG New Delhi & WTM Ambassador as well. She loves community building, Innovation and empowering Women in Tech.\n",
-  "social": {
-    "twitter": "https://twitter.com/shilpa1994",
-    "linkedin": "https://www.linkedin.com/in/shilpagarg13"
-  },
-  "sessionId": [506]
-},
   {
     "id": "107",
     "name": "Varsha Jaiswal",
@@ -102,21 +114,160 @@
       "twitter": "https://twitter.com/_varshajaiswal_/",
       "linkedin": "https://www.linkedin.com/in/varshajaiswal"
     },
-    "sessionId": [507]
+    "sessionId": [
+      506
+    ]
   },
   {
-  "id": "108",
-  "name": "Vrijraj Singh",
-  "company": {
-    "name": "NA",
-    "designation": "Freelancer"
+    "id": "108",
+    "name": "Vrijraj Singh",
+    "company": {
+      "name": "NA",
+      "designation": "Freelancer"
+    },
+    "image": "",
+    "bio": "Vrijraj is a front-end developer by profession and a community champion by passion. He is an organizer for GDG Jalandhar and a Google Developers Expert for Firebase and Web Technologies.\n\nHe has given 100+ talks and workshops for communities over the past 5 years. His areas of expertise are around Web, Firebase, Google Cloud Platform, and UI/UX Design. He is always eager to learn new technologies and develop solutions based on them. He enjoys mentoring people and  nurturing communities. Outside work, he is a foodie and enjoys watching YouTube videos.",
+    "social": {
+      "twitter": "https://twitter.com/VrijrajSingh",
+      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/"
+    },
+    "sessionId": [
+      506
+    ]
   },
-  "image": "",
-  "bio": "Vrijraj is a front-end developer by profession and a community champion by passion. He is an organizer for GDG Jalandhar and a Google Developers Expert for Firebase and Web Technologies.\n\nHe has given 100+ talks and workshops for communities over the past 5 years. His areas of expertise are around Web, Firebase, Google Cloud Platform, and UI/UX Design. He is always eager to learn new technologies and develop solutions based on them. He enjoys mentoring people and  nurturing communities. Outside work, he is a foodie and enjoys watching YouTube videos.",
-  "social": {
-    "twitter": "https://twitter.com/VrijrajSingh",
-    "linkedin": "https://www.linkedin.com/in/vrijrajsingh/"
+  {
+    "id": "109",
+    "name": "Lavanya Arora",
+    "company": {
+      "name": "Google",
+      "designation": "Product Manager"
+    },
+    "image": "",
+    "bio": "Lavanya is a Product Manager at Google and leads Fraud Defense for Google Maps. She is passionate about fighting abuse and ensuring users have a safe and delightful experience. She has been with Google for the past one year and is based out of their Bangalore office. Prior to Google, she has worked in varied domains such as semiconductors and Ad-tech at  companies like Synopsys and Directi. She holds an MBA from the Indian School of Business and a B.Tech from IIIT Hyderabad. As an undergraduate student, she was extensively involved in research and has published many papers. Her work on Blood Glucose sensing using machine learning techniques was awarded the best student paper at the 9th IEEE International Conference on Sensing Technology, New Zealand.Outside of work she is a fitness enthusiast and loves doing Crossfit and Olympic weightlifting. She also enjoys travelling and exploring new places.",
+    "social": {
+      "twitter": "https://twitter.com/lavanyaarora13",
+      "linkedin": "http://linkedin.com/in/lavanya-arora-76285142/"
+    },
+    "sessionId": [
+      507
+    ]
   },
-  "sessionId": [508]
-}
+  {
+    "id": "110",
+    "name": "Bhuvana Kundumani",
+    "company": {
+      "name": "Saama Technologies",
+      "designation": "Research Engineer"
+    },
+    "image": "",
+    "bio": "Bhuvana Kundumani is an engineer by education, entrepreneur by profession and a curious learner by nature. Her career started at Deloitte in finance. A few years later, she founded ThinkDiff S’kool– a STEM center focused on learning by doing and learning by design. Through this venture, she mentored teenage kids for international skills transfer programs like Leangap and Technovation. She had the privilege of being a part of the team which was selected to present their pitch at Google, Mountain View. Inspired, she started her journey with AI in 2018. She is currently working on NLP in the Biomedical domain.",
+    "social": {
+      "twitter": "https://twitter.com/KA_Bhuvana",
+      "linkedin": "https://in.linkedin.com/in/bhuvana-kundumani-71694366"
+    },
+    "sessionId": [
+      508
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Usha Ramani Vemuru",
+    "company": {
+      "name": "GURUJADA",
+      "designation": "CEO and Co- Founder"
+    },
+    "image": "",
+    "bio": "",
+    "social": {
+      "twitter": "https://twitter.com/vusharamani",
+      "linkedin": "https://www.linkedin.com/in/usha-ramani-vemuru-66286723/"
+    },
+    "sessionId": [
+      509
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Vinita Sharma",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "",
+    "bio": "she is a backend developer, with more than 6 years of experience working across different companies including Myntra and some very early stage startups. She has worked across various stages in the lifecycle of product, building from Zero to One and also scaling up from early customers to a larger market.When she is  not building systems or learning about the latest stuff, She will mostly be painting or playing chess.",
+    "social": {
+      "twitter": "https://twitter.com/vinita_sharma77",
+      "linkedin": "https://www.linkedin.com/in/vinita-sharma-56887937/"
+    },
+    "sessionId": [
+      510
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Shivasankari Bhuvaneswaran",
+    "company": {
+      "name": "Zuper Inc.,",
+      "designation": "Content Marketer"
+    },
+    "image": "",
+    "bio": "With Storytelling as my core skill, I have worked across multiple marketing disciplines in both small and large tech startups. I have helped build and execute global thought leadership campaigns for both branding and demand generation. At Zuper, I am the chief storyteller who is incharge of narrating our brand story to the world  :) ",
+    "social": {
+      "twitter": "https://twitter.com/shibhuwrites",
+      "linkedin": "https://www.linkedin.com/in/shibhu/"
+    },
+    "sessionId": [
+      511
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Neha Sharma",
+    "company": {
+      "name": "Tesco",
+      "designation": "Software Development manager"
+    },
+    "image": "",
+    "bio": "",
+    "social": {
+      "twitter": "https://twitter.com/hellonehha",
+      "linkedin": "https://www.linkedin.com/in/nehha/"
+    },
+    "sessionId": [
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Hemadhevi Nagarajan",
+    "company": {
+      "name": "Walk the talk champion hub",
+      "designation": "Founder, Lifestyle Gamification Specialist"
+    },
+    "image": "",
+    "bio": "I m Hemadhevi Nagarajan, I m Lifestyle Gamification Specialist. I m the founder of Walk the Talk Champion Hub. I m on a mission to empower children by helping them a live happy, healthy and successful lifestyle and become a champion of their life. ",
+    "social": {
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/hemadhevi-nagarajan-73180215/"
+    },
+    "sessionId": [
+      512
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Vinita Sharma",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "",
+    "bio": "she is a backend developer, with more than 6 years of experience working across different companies including Myntra and some very early stage startups. She has worked across various stages in the lifecycle of product, building from Zero to One and also scaling up from early customers to a larger market.When she is  not building systems or learning about the latest stuff, She will mostly be painting or playing chess.",
+    "social": {
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/vinita-sharma-56887937/"
+    },
+    "sessionId": [
+      507
+    ]
+  }
 ]

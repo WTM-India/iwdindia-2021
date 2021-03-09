@@ -1,99 +1,171 @@
 [
-    {
-        "id": "501",
-        "slide":"",
-        "title":"Taking Ownership of our Expertise",
-        "description":"Taking Ownership of our Expertise is about demystifying Impostor Syndrome and tips to step up & own our expertise!.",
-        "track": "",
-        "link": "",
-        "format": "Day 1",
-        "date": "January 9th, 2021",
-        "timeDuration": "30",
-        "speakers": [
-            101
-        ]
-    },
-    {
-        "id": "502",
-        "slide":"",
-        "title":"The Art of Storytelling with Data Science",
-        "description":"In a rapidly expanding field like data science, with data everywhere, it’s easy to merely focus on technical skills: coding, data types, algorithms. It’s quintessential to make data consumable for the business, explore promising tools and skills towards creating human-centered data science and speculate future directions for data analytics and visualizations. This talk will throw light on how data helps businesses solve problems worth millions and have tangible outcomes, roadmap to visualizations and best practices of storytelling with data!",
-        "track": "",
-        "link": "",
-        "format": "Day 1",
-        "date": "January 9th, 2021",
-        "timeDuration": "30",
-        "speakers": [
-            102
-        ]
-    },
-    {
-        "id": "503",
-        "slide":"",
-        "title":"Learn to Write, Write to Learn",
-        "description":"Every engineer is also a writer, but you don't need to be an engineer to write. The workshop aims to guide and demystify some common misconceptions around content writing. Learn whom to write for and what to write for them by understanding what your audience might like to read. More importantly, this is a motivation to conquer the writer's block. Also its not just about writing, you will also gain some tips on how you can turn writing into a career.",
-        "track": "",
-        "link": "",
-        "format": "Day 1",
-        "date": "January 9th, 2021",
-        "timeDuration": "30",
-        "speakers": [
-            103
-        ]
-    },
-    {
-        "id": "504",
-        "slide":"",
-        "title":"Keynote speaker",
-        "description":"Keynote on - Courage To Create.",
-        "track": "",
-        "link": "",
-        "format": "Day 1",
-        "date": "January 9th, 2021",
-        "timeDuration": "30",
-        "speakers": [
-            104
-        ]
-    },
-    {
-        "id": "505",
-        "slide":"",
-        "title":"Learn To Write, Write To Learn",
-        "description":"Every engineer is also a writer, but you don't need to be an engineer to write. The workshop aims to guide and demystify some common misconceptions around content writing. Learn whom to write for and what to write for them by understanding what your audience might like to read. More importantly, this is a motivation to conquer the writer's block. Also its not just about writing, you will also gain some tips on how you can turn writing into a career.",
-        "track": "",
-        "link": "",
-        "format": "Day 1",
-        "date": "January 9th, 2021",
-        "timeDuration": "30",
-        "speakers": [
-            105
-        ]
-    },
-    {
-        "id": "506",
-        "slide":"",
-        "title":"Panel Discussion",
-        "description":"Cross Community Panel Discussion.",
-        "track": "",
-        "link": "",
-        "format": "Day 1",
-        "date": "January 9th, 2021",
-        "timeDuration": "30",
-        "speakers": [
-            106
-        ]
-    },  {
-    "id": "507",
-    "slide":"https://docs.google.com/presentation/d/1s8t0H5Gx8h6aVFtGoAfFqY3oCDE4E1KzIzDrN-GULRg/edit?usp=sharing",
-    "title":"Enhance your Core Web Vitals with AMP",
-    "description":"This talk covers the unified guidance for quality signals & the metrics that are essential to delivering a great user experience on the web and helps the developer in making performant solutions for the users. It will also throw some light on the best practices and performance with Accelerated Mobile Pages (AMP).",
+  {
+    "id": "501",
+    "slide": "https://docs.google.com/presentation/d/1SNwvHx40BmSh0rb9vKO6EfYiWZ6JyYWBcQd77FOpmEU/edit#slide=id.gc38bc12771_0_350",
+    "title": "Taking Ownership of our Expertise",
+    "description": "Taking Ownership of our Expertise is about demystifying Impostor Syndrome and tips to step up & own our expertise!.",
     "track": "",
     "link": "",
     "format": "Day 1",
     "date": "January 9th, 2021",
     "timeDuration": "30",
     "speakers": [
-        107
+      101
     ]
-}
+  },
+  {
+    "id": "502",
+    "slide": "https://docs.google.com/presentation/d/1EoWc9ljOUsLnCDoKD0W3mpARQ5fb6NP3wccUJinbKNM/edit?usp=sharing&resourcekey=0-w4M_cYmWHidtuyf7RJ_lMw",
+    "title": "The Art of Storytelling with Data Science",
+    "description": "In a rapidly expanding field like data science, with data everywhere, it’s easy to merely focus on technical skills: coding, data types, algorithms. It’s quintessential to make data consumable for the business, explore promising tools and skills towards creating human-centered data science and speculate future directions for data analytics and visualizations. This talk will throw light on how data helps businesses solve problems worth millions and have tangible outcomes, roadmap to visualizations and best practices of storytelling with data!",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      102
+    ]
+  },
+  {
+    "id": "503",
+    "slide": "https://docs.google.com/presentation/d/17q2B5DEdBMkMmbQFScLmmqxX3x1mDIkeAR9Bw5_G3WQ/edit?usp=sharing&resourcekey=0-8bYzIh91QYjan97xw8cYAg",
+    "title": "Learn to Write, Write to Learn",
+    "description": "Every engineer is also a writer, but you don't need to be an engineer to write. The workshop aims to guide and demystify some common misconceptions around content writing. Learn whom to write for and what to write for them by understanding what your audience might like to read. More importantly, this is a motivation to conquer the writer's block. Also its not just about writing, you will also gain some tips on how you can turn writing into a career.",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      103,
+      105
+    ]
+  },
+  {
+    "id": "504",
+    "slide": "",
+    "title": "Keynote speaker",
+    "description": "Keynote on - Courage To Create.",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      104
+    ]
+  },
+  {
+    "id": "505",
+    "slide": "",
+    "title": "Panel Discussion",
+    "description": "Cross Community Panel Discussion.",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      106
+    ]
+  },
+  {
+    "id": "506",
+    "slide": "https://docs.google.com/presentation/d/1s8t0H5Gx8h6aVFtGoAfFqY3oCDE4E1KzIzDrN-GULRg/edit?usp=sharing",
+    "title": "Enhance your Core Web Vitals with AMP",
+    "description": "This talk covers the unified guidance for quality signals & the metrics that are essential to delivering a great user experience on the web and helps the developer in making performant solutions for the users. It will also throw some light on the best practices and performance with Accelerated Mobile Pages (AMP).",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      107,108
+    ]
+  },
+  {
+    "id": "507",
+    "slide": "https://docs.google.com/presentation/d/1c4vEojCZyRFDkV3sdX_x_ozXdsor2LkJNTi-bvj8460/edit?resourcekey=0-NsfjA9wXkTtaCDYyEBWnaw#slide=id.g79d0412a40_0_9",
+    "title": "Product Management from my lens",
+    "description": "The talk is a candid primer on a career in Product Management and busts some common myths around it. Through some insightful case studies, I also touch upon what it takes to build great products.",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      109
+    ]
+  },
+  {
+    "id": "508",
+    "slide": "https://docs.google.com/presentation/d/1s8t0H5Gx8h6aVFtGoAfFqY3oCDE4E1KzIzDrN-GULRg/edit?usp=sharing",
+    "title": "Named Entity Recognition with Tensorflow",
+    "description": "Building and training a custom deep-learning NER model with Tensorflow and deploying it as a REST API.",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      110
+    ]
+  },
+  {
+    "id": "509",
+    "slide": "",
+    "title": "Entrepreneurship panel discussion",
+    "description":"",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      111
+    ]
+  },
+  {
+    "id": "510",
+    "slide": "https://docs.google.com/presentation/d/1Bjgt-Pom7-u-JzM8NzMwaZA7wD6-Kbol_zS7gDSjlLI/edit?resourcekey=0-1XT4vIjX1tZVB0tVr4PITQ#slide=id.g79bbe78ca5_0_519",
+    "title": "Architecture Before Code",
+    "description":"We will look at the importance of Architecture and why it is important to choose the right architecture before starting to code. We will deep dive into a few different architecture patterns and their real life applications.",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      112
+    ]
+  },
+  {
+    "id": "511",
+    "slide": "https://drive.google.com/open?id=1rgvLdXplq7EVTBUHM9nZVf09QDQHgDD1",
+    "title": "The Power of a Good Portfolio",
+    "description":"CVs are so old school. Portfolios, on the other hand, will help you stand out from the crowd, show your uniqueness, and build trust. Here's all you need to know about the unique way of showcasing your work.",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      113
+    ]
+  },
+  {
+    "id": "512",
+    "slide": "https://drive.google.com/open?id=1rgvLdXplq7EVTBUHM9nZVf09QDQHgDD1",
+    "title": "You can help your children to Live life by their design and Grow together",
+    "description":"In session I will discussing about the Mindset, Skills and Tools essential for one to Live life by their design. How parents and children can grow together?.",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "January 9th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      113
+    ]
+  }
 ]
