@@ -27,7 +27,8 @@
             color="primary"
             slider-color="primary"
           >
-            <v-tab href="#day1"> January 9 </v-tab>
+            <v-tab href="#day1"> March 20 </v-tab>
+            <v-tab href="#day2"> March 21 </v-tab>
           </v-tabs>
         </v-col>
       </v-row>
@@ -38,7 +39,25 @@
               value="day1"
               class="white my-3"
             >
-              <ScheduleDetails :data="ScheduleData[0]" />
+             <v-container>
+                <v-row>
+                  <v-col>
+                    <ScheduleDetails :data="ScheduleData[0]" />
+                  </v-col>
+                </v-row>
+              </v-container>
+            </v-tab-item>
+            <v-tab-item
+              value="day2"
+              class="white my-3"
+            >
+               <v-container>
+                <v-row>
+                  <v-col>
+                    <ScheduleDetails :data="ScheduleData[1]" />
+                  </v-col>
+                </v-row>
+              </v-container>
             </v-tab-item>
           </v-tabs-items>
         </v-col>
@@ -62,9 +81,12 @@ export default {
   mounted() {
     this.ScheduleData = ScheduleDetailsData;
   },
-  methods:{
-    
-  }
+   methods: {
+    getMobileTab() {
+      if (window.innerWidth < 500) return true;
+      else return false;
+    },
+  },
 };
 </script>
 

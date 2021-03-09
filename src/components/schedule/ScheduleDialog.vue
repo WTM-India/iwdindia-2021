@@ -2,12 +2,13 @@
   <v-dialog v-model="dialog" width="800" scrollable>
     <template v-slot:activator="{ on }">
       <div v-on="on" style="cursor: pointer" class="py-3 ma-1 fill-height">
+        
         <p style="font-size: 130%" class="mb-0 google-font">{{ data.title }}</p>
         
         <span v-for="(itemp, indexp) in speakers" :key="indexp">
           <v-chip pill class="mt-2 mr-2" outlined small>
             <v-avatar left>
-              <img :src="getImgUrl(itemp.image)" />
+              <img :src="getImgUrl(itemp.image)"  class="image-wrapper" />
             </v-avatar>
             {{ itemp.name }}
           </v-chip>
@@ -82,7 +83,7 @@
                     >
                       <v-list-item class="my-0 py-0">
                         <v-list-item-avatar>
-                          <img :src="getImgUrl(itemp.image)" />
+                          <img :src="getImgUrl(itemp.image)" class="image-wrapper" />
                         </v-list-item-avatar>
                         <v-list-item-content>
                           <v-list-item-title class="google-font">{{
@@ -154,3 +155,9 @@ export default {
   },
 };
 </script>
+<style scoped>
+.image-wrapper {
+  object-fit: cover;
+  object-position: center;
+}
+</style>
