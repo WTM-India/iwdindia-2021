@@ -19,9 +19,7 @@
             Speakers
           </h1>
           <p class="google-font" style="font-size:110%">
-            Interested in Web technologies? Join
-            the vibrant and diverse set of speakers where you can learn, network,
-            share knowledge and enjoy the experience.
+           Our speakers are influential women & allies who have been associated with communities within their organisations, cities, country and beyond.
           </p>
         </v-col>
       </v-row>

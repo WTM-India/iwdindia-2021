@@ -144,7 +144,6 @@
         <v-spacer></v-spacer>
         <v-btn
           aria-label="close"
-          flat
           class="px-10"
           color="primary"
           text
