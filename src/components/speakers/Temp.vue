@@ -5,7 +5,12 @@
         v-on="on"
         v-ripple
         v-bind="attrs"
-        style="cursor: pointer"
+        style="
+          cursor: pointer;
+          background: white;
+          border: 1px solid #e0e0e0;
+          border-radius: 5px;
+        "
         class="text-center py-5 ma-1 fill-height"
       >
         <v-avatar size="130">

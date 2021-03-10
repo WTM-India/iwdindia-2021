@@ -29,7 +29,7 @@
             <v-row class>
               <v-col
                 md="3"
-                lg="2"
+                lg="3"
                 xl="2"
                 sm="4"
                 cols="6"
