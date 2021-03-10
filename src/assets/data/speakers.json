@@ -1,137 +1,444 @@
 [
   {
     "id": "101",
-    "name": "Saurabh Rajpal",
+    "name": "Kathita Goel",
     "company": {
-      "designation": "Sr. Web Ecosystem Consultant",
+      "designation": "Senior Product Technology Manager",
       "name": "Google"
     },
-    "image": "saurabh.jpg",
-    "bio": "Self proclaimed #Gru of #Webinion! Working as a Sr. Web Ecosystem Consultant @ Google with a mission to make web better for the ecosystem. Loves to talk about web performance, PWA, project FUGU (aka web capabilities) and anything that matters to Chrome users!",
+    "image": "Kathita.png",
+    "bio": "Kathita Goel is Product Technology Manager at Google. Apart from her core job, she is learning to sing, passionate about mentoring college students via Women Techmakers Engineering Fellows program and working with few friends in the space of elderly care(growingold.in). Kathita Goel has an unquenchable zeal to learn and share  new things!",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/imsaurabhrajpal/",
-      "twitter": "https://twitter.com/imsaurabhrajpal"
+      "linkedin": "https://www.linkedin.com/in/kathita/",
+      "twitter": ""
     },
-    "sessionId": [501]
+    "sessionId": [
+      518
+    ]
   },
   {
     "id": "102",
-    "name": "Shidhin Cr",
+    "name": "Rashi Desai",
     "company": {
-      "name": "Google Developer Expert, Web",
-      "designation": "Engineering Lead"
+      "name": "PepsiCo",
+      "designation": "Data Science Intern"
     },
-    "image": "shidin.jpg",
-    "bio": "Shidhin is a FrontEnd Engineering Lead. He is also a Google Developer Expert in Web Technologies. He is passionate about latest web technologies and find every chance to move the web forward. These days, he focus more on web performance and speed tools.",
+    "image": "Rashi.png",
+    "bio": "Rashi is a Data Science Intern at PepsiCo and a graduate student at the University of Illinois, Chicago. While she completes her graduation, she has pivoted her interests in data-driven decision making and making data more approachable. She currently heads INFORMS UIC Chapter- an organization that brings together professionals from fields of Data and Business. She believes in creating an impact with every endeavor by breaking the glass ceiling. On weekends, Rashi can usually be found blogging about data, UX and new in technology with a good cup of hot chocolate in a Chicago cafe!",
     "social": {
-      "twitter": "https://twitter.com/shidhincr",
-      "linkedin": ""
+      "twitter": "https://twitter.com/rpdesai24",
+      "linkedin": "https://www.linkedin.com/in/rashidesai2/"
     },
-    "sessionId": [502]
+    "sessionId": [
+      502
+    ]
   },
   {
     "id": "103",
-    "name": "Bharat Agarwal",
+    "name": "Dharmesh Vaya",
     "company": {
-      "name": "Full Stack Developer",
-      "designation": ""
+      "name": "Agrahyah Technologies",
+      "designation": "Director - Technology"
     },
-    "image": "bharat.jpg",
-    "bio": "Bharat is a Full stack developer who loves to Develop tools, Playing with Software and their Security is his passion. He is also an active contributor at GDG-X Github organization where he is actively working in Project Aura.",
+    "image": "Dharmesh.png",
+    "bio": "Dharmesh is a technologist known for his ability of developing enterprise applications on Cloud Platforms and fostering a spirit of innovation among teams, with a diverse experience around Banking, e-Commerce, Media/Entertainment to name a few.\n\nCurrently he is the Director of Technology at Agrahyah Technologies. He is a Google Developer Expert for Google Cloud Platform and actively manages Google Cloud Developers Community, Mumbai.",
     "social": {
-      "twitter": "https://twitter.com/bharatagsrwal",
-      "linkedin": ""
+      "twitter": "https://twitter.com/DRVaya",
+      "linkedin": "https://linkedin.com/in/dharmeshvaya"
     },
-    "sessionId": [503]
+    "sessionId": [
+      503
+    ]
   },
   {
     "id": "104",
-    "name": "Aayush Arora",
+    "name": "Sairee Chahal",
     "company": {
-      "name": "FilterPixel",
-      "designation": "Co-Founder"
+      "name": "SHEROES",
+      "designation": "Founder & CEO"
     },
-    "image": "aayush.jpg",
-    "bio": "Aayush is the Founder and CEO of FilterPixel & Google Developer Expert, thriving to innovate frontend with accessible Interfaces. An innovation strategist and Massachusetts Institute of Technology Entrepreneurship graduate, he brings 5+ years of experience in Web Development, Accessibility with his expertise in Angular Framework. Since, 3+ years, he has mentored around 1 lakh students across the globe for Udacity under Google Scholarship programs and 20+ startups under Pluralsight. Aayush has always been a prominent voice for FOSSASIA during GSoC and has been contributing continuously to the growth of the communities such as FOSSASIA, NASA, and CloudCV. ",
+    "image": "sairee.png",
+    "bio": "Sairee Chahal is Founder and CEO of SHEROES – the world’s largest online ecosystem for women, comprising the SHEROES app, Babygogo, SHECO, SHEROES Money, MARS by SHEROES and Naaree.com. The network has a national and global footprint of 21 million women. \nSairee is on the Board of Directors of Paytm Payments Bank and Milaan Foundation, and on the advisory board of US-based initiative Women In Cloud.   \n \nShe has an M. Phil from JNU and a PGDBM from IMT Ghaziabad. She is an Aspen  Fellow and a Cartier Award Alumni. In a personal capacity, Sairee has mentored hundreds of women entrepreneurs, and continues to do so to help strengthen the women-led entrepreneurship ecosystem\n ",
     "social": {
-      "twitter": "https://twitter.com/angularboy",
-      "linkedin": ""
+      "twitter": "https://twitter.com/Sairee",
+      "linkedin": "https://www.linkedin.com/in/sairee"
     },
-    "sessionId": [504]
+    "sessionId": [
+      504
+    ]
   },
   {
     "id": "105",
-    "name": "Paul Kinlan",
+    "name": "Bhavani Ravi",
     "company": {
-      "name": "Google",
-      "designation": "Lead for Web and Chrome Developer Relations Team"
+      "name": "Saama Technologies",
+      "designation": "Senior Software Engineer"
     },
-    "image": "paul.jpg",
-    "bio": "Lead for Web and Chrome Developer Relations @ Google",
+    "image": "Bhavani.png",
+    "bio": "Bhavani Ravi is a Research Engineer at  Saama Technologies, a part of the team that built the SDQ application to fast-track Pfizer’s clinical trials for the CoVID vaccine. She has made Open source contributions to famous Python libraries like Rasa and Pandas. She is the founder of TheLearningDev to teach Python-based applications via Bootcamps. She is a community activist and runs  WomenTechMakers and Build2Learn  Chennai community, She is also a blogger, YouTuber, producing Talkoverflow podcast. You can find more about her at bhavaniravi.com",
     "social": {
-      "twitter": "https://twitter.com/Paul_Kinlan",
-      "linkedin": ""
+      "twitter": "https://twitter.com/BhavaniRavi_",
+      "linkedin": "https://linkedin.com/in/bhavanir"
     },
-    "sessionId": [505]
+    "sessionId": [
+      503
+    ]
   },
   {
     "id": "106",
-    "name": "Pragati Rithekar",
+    "name": "Shilpa Garg",
     "company": {
-      "name": "Globant",
-      "designation": "Technical Manager"
+      "name": "Magic Software",
+      "designation": "Lead AI Consultant"
     },
-    "image": "pragati.jpg",
-    "bio": "I am a Technical Manager at Globant and have around 11 years of experience in the IT industry. I love having technical and innovative discussions. Thinking out of the box has always been my second nature. On a personal front, I am a complete foodie and love reading books.",
+    "image": "Shilpa.png",
+    "bio": "Shilpa is a Software Engineer presently working in the field of Machine Learning(NLP). She is a Tech Speaker, Google MLCC Facilitator, python mentor at 1 million Women to Tech by Oxford Entreprenurers & presently working as Lead AI Consultant in Edtech. Company, with a total experience of 5+ years in the Industry. She is organiser of GDG New Delhi & WTM Ambassador as well. She loves community building, Innovation and empowering Women in Tech.\n",
     "social": {
-      "twitter": "https://twitter.com/rithekar",
-      "linkedin": ""
+      "twitter": "https://twitter.com/shilpa1994",
+      "linkedin": "https://www.linkedin.com/in/shilpagarg13"
     },
-    "sessionId": [506]
+    "sessionId": [
+      505
+    ]
   },
   {
     "id": "107",
-    "name": "Sunit Jindal",
+    "name": "Varsha Jaiswal",
     "company": {
-      "name": "Nykaa",
-      "designation": "Principal Engineer"
+      "name": "Edfora Infotech Pvt. Ltd.",
+      "designation": "Software Engineer"
     },
-    "image": "sunit.jpg",
-    "bio": "Principal Engg @ Nykaa.com. Love traveling and food. Hustler. Believer. Passionate about everything JS.",
+    "image": "Varsha.png",
+    "bio": "Aiming towards a goal and making continuous effort to achieve it is what I believe. I am a girl who puts thinking into each step towards giving back to the community by sharing the knowledge with everyone who is in the quest for it. Hardwork and Determination are the two values that I hold close to my heart. Working as a Software Engineer, I have keen interest in working on new technologies. Being the Gold facilitator of the #IamRemarkable initiative by Google, I always give my best to motivate my people around me. Empowering women and having gender equity has always been my motive and this led me to be the Chapter Lead for Malikah where I will be helping women out in many ways. Despite busy schedules, I never miss an opportunity to travel and eat.!",
     "social": {
-      "twitter": "https://twitter.com/sunitj",
-      "linkedin": "https://www.linkedin.com/in/sunitjindal/"
+      "twitter": "https://twitter.com/_varshajaiswal_/",
+      "linkedin": "https://www.linkedin.com/in/varshajaiswal"
     },
-    "sessionId": [506]
+    "sessionId": [
+      519
+    ]
   },
   {
     "id": "108",
-    "name": "Thomas Steiner",
+    "name": "Vrijraj Singh",
     "company": {
-      "name": "Google",
-      "designation": "Developer Advocate"
+      "name": "",
+      "designation": "GDE for Web & Firebase"
     },
-    "image": "thomas.jpg",
-    "bio": "Thomas Steiner is a Developer Advocate at Google Hamburg, focused on making the Web a better place through standardization, creating and sharing best practices, and doing research. He blogs at https://blog.tomayac.com/",
+    "image": "Vrijraj.png",
+    "bio": "Vrijraj is a front-end developer by profession and a community champion by passion. He is an organizer for GDG Jalandhar and a Google Developers Expert for Firebase and Web Technologies.\n\nHe has given 100+ talks and workshops for communities over the past 5 years. His areas of expertise are around Web, Firebase, Google Cloud Platform, and UI/UX Design. He is always eager to learn new technologies and develop solutions based on them. He enjoys mentoring people and  nurturing communities. Outside work, he is a foodie and enjoys watching YouTube videos.",
     "social": {
-      "twitter": "https://twitter.com/tomayac",
-      "linkedin": ""
+      "twitter": "https://twitter.com/VrijrajSingh",
+      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/"
     },
-    "sessionId": [506]
+    "sessionId": [
+      519
+    ]
   },
   {
     "id": "109",
-    "name": "Vikas Kumar",
+    "name": "Lavanya Arora",
     "company": {
-      "name": "NDTV",
-      "designation": "Head Of Technology"
+      "name": "Google",
+      "designation": "Product Manager"
     },
-    "image": "vikas.jpg",
-    "bio": "I have 14+ Years of Experience in design and development of highly scalable web applications using LEMP / LAMP Stack. Currently I head the technology team of NDTV Convergence, which is a digital arm of NDTV. I am working with NDTV from more than 10+ years.",
+    "image": "Lavanya.png",
+    "bio": "Lavanya is a Product Manager at Google and leads Fraud Defense for Google Maps. She is passionate about fighting abuse and ensuring users have a safe and delightful experience. She has been with Google for the past one year and is based out of their Bangalore office. Prior to Google, she has worked in varied domains such as semiconductors and Ad-tech at  companies like Synopsys and Directi. She holds an MBA from the Indian School of Business and a B.Tech from IIIT Hyderabad. As an undergraduate student, she was extensively involved in research and has published many papers. Her work on Blood Glucose sensing using machine learning techniques was awarded the best student paper at the 9th IEEE International Conference on Sensing Technology, New Zealand.Outside of work she is a fitness enthusiast and loves doing Crossfit and Olympic weightlifting. She also enjoys travelling and exploring new places.",
     "social": {
-      "twitter": "https://twitter.com/vikassalyan",
-      "linkedin": "https://www.linkedin.com/in/vikassalyan"
+      "twitter": "https://twitter.com/lavanyaarora13",
+      "linkedin": "http://linkedin.com/in/lavanya-arora-76285142/"
     },
-    "sessionId": [506]
+    "sessionId": [
+      507
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Bhuvana Kundumani",
+    "company": {
+      "name": "Saama Technologies",
+      "designation": "Research Engineer"
+    },
+    "image": "Bhuvana.png",
+    "bio": "Bhuvana Kundumani is an engineer by education, entrepreneur by profession and a curious learner by nature. Her career started at Deloitte in finance. A few years later, she founded ThinkDiff S’kool– a STEM center focused on learning by doing and learning by design. Through this venture, she mentored teenage kids for international skills transfer programs like Leangap and Technovation. She had the privilege of being a part of the team which was selected to present their pitch at Google, Mountain View. Inspired, she started her journey with AI in 2018. She is currently working on NLP in the Biomedical domain.",
+    "social": {
+      "twitter": "https://twitter.com/KA_Bhuvana",
+      "linkedin": "https://in.linkedin.com/in/bhuvana-kundumani-71694366"
+    },
+    "sessionId": [
+      508
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Usha Ramani Vemuru",
+    "company": {
+      "name": "GURUJADA",
+      "designation": "CEO and Co- Founder"
+    },
+    "image": "usha.png",
+    "bio": "",
+    "social": {
+      "twitter": "https://twitter.com/vusharamani",
+      "linkedin": "https://www.linkedin.com/in/usha-ramani-vemuru-66286723/"
+    },
+    "sessionId": [
+      517
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Shivasankari Bhuvaneswaran",
+    "company": {
+      "name": "Zuper Inc.,",
+      "designation": "Content Marketer"
+    },
+    "image": "Shivasankari.png",
+    "bio": "With Storytelling as my core skill, I have worked across multiple marketing disciplines in both small and large tech startups. I have helped build and execute global thought leadership campaigns for both branding and demand generation. At Zuper, I am the chief storyteller who is incharge of narrating our brand story to the world  :) ",
+    "social": {
+      "twitter": "https://twitter.com/shibhuwrites",
+      "linkedin": "https://www.linkedin.com/in/shibhu/"
+    },
+    "sessionId": [
+      511
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Neha Sharma",
+    "company": {
+      "name": "Tesco",
+      "designation": "Software Development manager"
+    },
+    "image": "Neha.png",
+    "bio": "",
+    "social": {
+      "twitter": "https://twitter.com/hellonehha",
+      "linkedin": "https://www.linkedin.com/in/nehha/"
+    },
+    "sessionId": [
+      505
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Hemadhevi Nagarajan",
+    "company": {
+      "name": "Walk the talk champion hub",
+      "designation": "Founder, Lifestyle Gamification Specialist"
+    },
+    "image": "Hemadhevi.png",
+    "bio": "I m Hemadhevi Nagarajan, I m Lifestyle Gamification Specialist. I m the founder of Walk the Talk Champion Hub. I m on a mission to empower children by helping them a live happy, healthy and successful lifestyle and become a champion of their life. ",
+    "social": {
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/hemadhevi-nagarajan-73180215/"
+    },
+    "sessionId": [
+      517
+    ]
+  },
+  {
+    "id": "116",
+    "name": "Juhi Singh",
+    "company": {
+      "name": "Freshworks",
+      "designation": "Developer Marketer "
+    },
+    "image": "Juhi.png",
+    "bio": "A girl who believes in community.",
+    "social": {
+      "twitter": "https://twitter.com/juhi_singh15",
+      "linkedin": "https://www.linkedin.com/in/sjuhi/"
+    },
+    "sessionId": [
+      505
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Shachi Dave",
+    "company": {
+      "name": "Google",
+      "designation": "Research Engineer"
+    },
+    "image": "shachi.png",
+    "bio": "Shachi Dave is a Research Engineer in the Natural Language Understanding group at Google Research India. She received her Masters degree in Computer Science from University of Southern California, Los Angeles. Her research interests include, natural language understanding, conversational AI and data mining/modeling and their applications to various products like Search and Assistant.",
+    "social": {
+      "twitter": "https://twitter.com/shachi_dave",
+      "linkedin": "https://www.linkedin.com/in/shachidave"
+    },
+    "sessionId": [
+      520
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Sai Gole",
+    "company": {
+      "name": "BharatAgri",
+      "designation": "Founder and COO"
+    },
+    "image": "Sai.png",
+    "bio": "Sai is graduate in Product Design from IIT Madras. She has been involved in robotics and was part of IITM robotics team and had represented IITM and India in various national and international competitions. After graduation worked with one of the biggest FMCG company in India. She started BharatAgri in 2017. BharatAgri has developed unique technology for personalized advisory and communication for 140 Mn Indian farming families which users can subscribe for tech-enabled farming. ",
+    "social": {
+      "twitter": "https://twitter.com/SaiGole",
+      "linkedin": "https://www.linkedin.com/in/saigole/"
+    },
+    "sessionId": [
+      517
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Shwetha Lakshman Rao",
+    "company": {
+      "name": "VMware Software India",
+      "designation": "Staff engineer"
+    },
+    "image": "Shwetha.png",
+    "bio": "Shwetha is Staff Engineer at VMware with 14+ years of industry experience. She is Senior Director of WomenWhoCode(a community of 2lakh+ passionate technologists), has inspired several women to think beyond regular deliverables and contribute towards Innovations (including hackathons, present research papers in different conference, patents) and give back to the women in community through WomenWhoCode. She drives multiple versatile initiatives to create opportunities for Engineers in VMware India and help customers. She is mentor and evaluator for Govt of India’s Smart India Hackathon, one of the biggest Hackathon in the world with 5 lakh + students participating from all over India. She has been awarded with “#ApplaudHer 2019” from WomenWhoCode and IEEE for her contribution in the community. She holds a patent from US patent attorney and won several hackathons.",
+    "social": {
+      "twitter": "https://twitter.com/lshwethaa",
+      "linkedin": "https://www.linkedin.com/in/shwetha-lakshman-rao-87301820/"
+    },
+    "sessionId": [
+      505
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Aananya T",
+    "company": {
+      "name": "Kubric.io",
+      "designation": "Developer Experience Engineer"
+    },
+    "image": "Aananya.png",
+    "bio": "Aananya is a developer experience engineer at Kubric.io apart from being an advocate for women in tech through WTM bangalore. She lives by “lift as you climb” as her principle (heard it first in an IWD event !! ). She’s powered by idlis, empathy and art & loves talking about code, creativity & community",
+    "social": {
+      "twitter": "https://twitter.com/py_anan",
+      "linkedin": "https://www.linkedin.com/in/aananya-27/"
+    },
+    "sessionId": [
+      507
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Ramya Kappagantu",
+    "company": {
+      "name": "Oracle",
+      "designation": "Software Engineer"
+    },
+    "image": "Ramya.png",
+    "bio": "I am Ramya. I currently work as a Software Engineer at Oracle. I have been leading Women Techmakers Nagpur as an Ambassador for the past 1.5 year empowering women and creating visibility to them. I am also a Developer Student Clubs Lead formerly, where I created awareness about Google technologies to university students through various campaigns and initiatives. I have a great passion towards databases, Machine Learning and specifically how data helps in improving the performance of ML/DL applications. In my spare time, I love to doodle.",
+    "social": {
+      "twitter": "https://twitter.com/ramyaK122",
+      "linkedin": "https://www.linkedin.com/in/ramya-kappagantu-a588a6162/"
+    },
+    "sessionId": [
+      507
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Roza Chojnacka",
+    "company": {
+      "name": "Google",
+      "designation": "Research Engineer"
+    },
+    "image": "Roza.png",
+    "bio": "Roza is a senior Research Engineer working on Automatic Speech Recognition. Prior to work on Speech, she led image recognition and augmented reality projects in Google Lens. She graduated with MSc in Computer Science from the University of Warsaw. Her work resulted in a number of patents and launches in Google Assistant, Google Cloud and Google Lens.",
+    "social": {
+      "twitter": "https://twitter.com/roza_chojnacka",
+      "linkedin": "https://www.linkedin.com/in/rozachojnacka/"
+    },
+    "sessionId": [
+      515
+    ]
+  },
+  {
+    "id": "123",
+    "name": "Lakshya Sivaramakrishnan",
+    "company": {
+      "name": "Google",
+      "designation": "Program Manager at Women Techmakers India"
+    },
+    "image": "lakshya.jpg",
+    "bio": "Lakshya manages the Women Techmakers Program in India. She is a data science enthusiast building tech expertise in Machine Learning and Google Cloud. She enjoys nurturing communities and empowering more women to join, thrive and lead in the tech industry.",
+    "social": {
+      "twitter": "https://twitter.com/lakshyas90/",
+      "linkedin": "https://www.linkedin.com/in/lakshyasi/"
+    },
+    "sessionId": [
+      513
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Soumita Basu",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "",
+    "bio": "",
+    "social": {
+      "twitter": "",
+      "linkedin": ""
+    },
+    "sessionId": [
+      517
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Vaishnavi Reddy",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "",
+    "bio": "",
+    "social": {
+      "twitter": "",
+      "linkedin": ""
+    },
+    "sessionId": [
+      517
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Dhrumil Shah",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "",
+    "bio": "",
+    "social": {
+      "twitter": "",
+      "linkedin": ""
+    },
+    "sessionId": [
+      505
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Vinitha Sharma",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "",
+    "bio": "",
+    "social": {
+      "twitter": "",
+      "linkedin": ""
+    },
+    "sessionId": [
+      510
+    ]
   }
 ]

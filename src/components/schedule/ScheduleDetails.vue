@@ -6,7 +6,7 @@
       v-for="(item, index) in data['schedule']"
       :key="index"
       :class="$vuetify.theme.dark ? 'row-border-dark ' : 'row-border-white'"
-      class="pa-0 my-0 "
+      class="pa-0 my-0"
     >
       <v-col md="2" cols="3" class="text-right my-0 py-0">
         <p style="font-size:130%" class="mb-0 google-font">
