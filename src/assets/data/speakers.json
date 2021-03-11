@@ -411,14 +411,14 @@
     "id": "126",
     "name": "Dhrumil Shah",
     "company": {
-      "name": "",
-      "designation": ""
+      "name": "GoHighLevel",
+      "designation": "Sr Mobile Application Developer"
     },
-    "image": "",
-    "bio": "",
+    "image": "Dhrumil.png",
+    "bio": "Dhrumil Shah, the GDE of Flutter & Dart, the co-organiser of GDG Ahmedabad, Senior Mobile Application Developer at HighLevel and Founder of @Flutter_Flakes. He has done Masters in Computer Engineering in Wireless and Mobile Computing. Being an expert, he has an excellent command over developing applications, organising events, workshops, and mentoring developers and students that have made him a good trainer as well as an avid speaker in his domain.",
     "social": {
-      "twitter": "",
-      "linkedin": ""
+      "twitter": "https://twitter.com/dhuma1981/",
+      "linkedin": "https://www.linkedin.com/in/dhuma1981/"
     },
     "sessionId": [
       505
@@ -439,6 +439,40 @@
     },
     "sessionId": [
       510
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Priya Tiru",
+    "company": {
+      "name": "",
+      "designation": ""
+    },
+    "image": "Priya.jpg",
+    "bio": "Priya is the co-organiser of GDG & WTM Hubli. Few words that describe her pretty well are - Creative, Energetic, Imaginative and Hardworking.She is always motivated by her wish that she wants to do something very different from others. She has always been passionate about technology more of how technology can bring change in the surroundings. Apart from this, she loves management, art and food!",
+    "social": {
+      "twitter": "https://twitter.com/m__pria/",
+      "linkedin": "https://www.linkedin.com/in/priyatiru/"
+    },
+    "sessionId": [
+      
+    ]
+  },
+  {
+    "id": "129",
+    "name": "Meenakshi Varadarajan",
+    "company": {
+      "name": "Google",
+      "designation": "Engineering Director"
+    },
+    "image": "Meenakshi.jpg",
+    "bio": "Meenakshi is a seasoned Engineering Leader with more than two decades of industry experience in building and leading highly motivated teams. She has conceived and built products in Data Warehousing, BigData and IIoT space which are quintessence of technology led business innovation. Meenakshi has the strong belief that an inclusive culture at organizations helps to bring about the best in teams and individuals. She is the Director of Engineering at Google Cloud's Business Application Platform.",
+    "social": {
+      "twitter": "https://twitter.com/meenv/",
+      "linkedin": "https://www.linkedin.com/in/meenav/"
+    },
+    "sessionId": [
+      514
     ]
   }
 ]
