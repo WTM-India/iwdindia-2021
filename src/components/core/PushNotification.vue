@@ -66,7 +66,7 @@ export default {
               let token = localStorage.getItem("pushNotificationToken");
               if (token == null || token.length <= 0) {
                 FDK.messaging
-                  .getToken()
+                  .getToken({vapidKey:"BAyN4TQ4NMka6LtGDw4sCcxbsRlREzxhRWMnXR8SQvopSC2CT4_8_ObKMFHQTByWlT6iUCxKj-MYfmPfwg33vOw"})
                   .then((currentToken) => {
                     if (currentToken) {
                       FDK.firestore
