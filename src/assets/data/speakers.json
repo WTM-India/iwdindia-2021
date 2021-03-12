@@ -426,16 +426,16 @@
   },
   {
     "id": "127",
-    "name": "Vinitha Sharma",
+    "name": "Vinita Sharma",
     "company": {
       "name": "",
       "designation": ""
     },
-    "image": "",
-    "bio": "",
+    "image": "Vinita.png",
+    "bio": "I am a backend developer, with more than 6 years of experience working across different companies including Myntra and some very early stage startups. I have worked across various stages in the lifecycle of product, building from Zero to One and also scaling up from early customers to a larger market. When I am not building systems or learning about the latest stuff, I will mostly be painting or playing chess.",
     "social": {
-      "twitter": "",
-      "linkedin": ""
+      "twitter": "https://twitter.com/vinita_sharma77/",
+      "linkedin": "https://www.linkedin.com/in/vinita-sharma-56887937/"
     },
     "sessionId": [
       510
