@@ -1,7 +1,7 @@
 [
   {
     "id": "501",
-    "slide": "https://docs.google.com/presentation/d/1SNwvHx40BmSh0rb9vKO6EfYiWZ6JyYWBcQd77FOpmEU/edit#slide=id.gc38bc12771_0_350",
+    "slide": "",
     "title": "Taking Ownership of our Expertise",
     "description": "Taking Ownership of our Expertise is about demystifying Impostor Syndrome and tips to step up & own our expertise!.",
     "track": "",
@@ -10,33 +10,33 @@
     "date": "January 9th, 2021",
     "timeDuration": "30",
     "speakers": [
-      101
+      101 
     ]
   },
   {
     "id": "502",
-    "slide": "https://docs.google.com/presentation/d/1EoWc9ljOUsLnCDoKD0W3mpARQ5fb6NP3wccUJinbKNM/edit?usp=sharing&resourcekey=0-w4M_cYmWHidtuyf7RJ_lMw",
+    "slide": "",
     "title": "The Art of Storytelling with Data Science",
     "description": "In a rapidly expanding field like data science, with data everywhere, it’s easy to merely focus on technical skills: coding, data types, algorithms. It’s quintessential to make data consumable for the business, explore promising tools and skills towards creating human-centered data science and speculate future directions for data analytics and visualizations. This talk will throw light on how data helps businesses solve problems worth millions and have tangible outcomes, roadmap to visualizations and best practices of storytelling with data!",
     "track": "",
     "link": "",
-    "format": "Day 1",
-    "date": "January 9th, 2021",
-    "timeDuration": "30",
+    "format": "Day 2",
+    "date": "March 21th, 2021",
+    "timeDuration": "15",
     "speakers": [
       102
     ]
   },
   {
     "id": "503",
-    "slide": "https://docs.google.com/presentation/d/17q2B5DEdBMkMmbQFScLmmqxX3x1mDIkeAR9Bw5_G3WQ/edit?usp=sharing&resourcekey=0-8bYzIh91QYjan97xw8cYAg",
+    "slide": "",
     "title": "Learn to Write, Write to Learn",
     "description": "Every engineer is also a writer, but you don't need to be an engineer to write. The workshop aims to guide and demystify some common misconceptions around content writing. Learn whom to write for and what to write for them by understanding what your audience might like to read. More importantly, this is a motivation to conquer the writer's block. Also its not just about writing, you will also gain some tips on how you can turn writing into a career.",
     "track": "",
     "link": "",
-    "format": "Day 1",
-    "date": "January 9th, 2021",
-    "timeDuration": "30",
+    "format": "Day 2",
+    "date": "March 21th, 2021",
+    "timeDuration": "45",
     "speakers": [
       103,
       105
@@ -45,12 +45,12 @@
   {
     "id": "504",
     "slide": "",
-    "title": "Keynote speaker",
+    "title": "Keynote",
     "description": "Keynote on - Courage To Create.",
     "track": "",
     "link": "",
-    "format": "Day 1",
-    "date": "January 9th, 2021",
+    "format": "Day 2",
+    "date": "March 21th, 2021",
     "timeDuration": "30",
     "speakers": [
       104
@@ -59,20 +59,20 @@
   {
     "id": "505",
     "slide": "",
-    "title": "Panel Discussion",
+    "title": "Cross Community Panel Discussion",
     "description": "Cross Community Panel Discussion.",
     "track": "",
     "link": "",
-    "format": "Day 1",
-    "date": "January 9th, 2021",
+    "format": "Day 2",
+    "date": "March 21th, 2021",
     "timeDuration": "30",
     "speakers": [
-      106
+      114,106,119,116,126
     ]
   },
   {
     "id": "506",
-    "slide": "https://docs.google.com/presentation/d/1s8t0H5Gx8h6aVFtGoAfFqY3oCDE4E1KzIzDrN-GULRg/edit?usp=sharing",
+    "slide": "",
     "title": "Enhance your Core Web Vitals with AMP",
     "description": "This talk covers the unified guidance for quality signals & the metrics that are essential to delivering a great user experience on the web and helps the developer in making performant solutions for the users. It will also throw some light on the best practices and performance with Accelerated Mobile Pages (AMP).",
     "track": "",
@@ -86,13 +86,13 @@
   },
   {
     "id": "507",
-    "slide": "https://docs.google.com/presentation/d/1c4vEojCZyRFDkV3sdX_x_ozXdsor2LkJNTi-bvj8460/edit?resourcekey=0-NsfjA9wXkTtaCDYyEBWnaw#slide=id.g79d0412a40_0_9",
+    "slide": "",
     "title": "Product Management from my lens",
     "description": "The talk is a candid primer on a career in Product Management and busts some common myths around it. Through some insightful case studies, I also touch upon what it takes to build great products.",
     "track": "",
     "link": "",
     "format": "Day 1",
-    "date": "January 9th, 2021",
+    "date": "March 20th, 2021",
     "timeDuration": "30",
     "speakers": [
       109
@@ -100,7 +100,7 @@
   },
   {
     "id": "508",
-    "slide": "https://docs.google.com/presentation/d/1s8t0H5Gx8h6aVFtGoAfFqY3oCDE4E1KzIzDrN-GULRg/edit?usp=sharing",
+    "slide": "",
     "title": "Named Entity Recognition with Tensorflow",
     "description": "Building and training a custom deep-learning NER model with Tensorflow and deploying it as a REST API.",
     "track": "",
@@ -128,7 +128,7 @@
   },
   {
     "id": "510",
-    "slide": "https://docs.google.com/presentation/d/1Bjgt-Pom7-u-JzM8NzMwaZA7wD6-Kbol_zS7gDSjlLI/edit?resourcekey=0-1XT4vIjX1tZVB0tVr4PITQ#slide=id.g79bbe78ca5_0_519",
+    "slide": "",
     "title": "Architecture Before Code",
     "description":"We will look at the importance of Architecture and why it is important to choose the right architecture before starting to code. We will deep dive into a few different architecture patterns and their real life applications.",
     "track": "",
@@ -137,26 +137,26 @@
     "date": "January 9th, 2021",
     "timeDuration": "30",
     "speakers": [
-      112
+      127
     ]
   },
   {
     "id": "511",
-    "slide": "https://drive.google.com/open?id=1rgvLdXplq7EVTBUHM9nZVf09QDQHgDD1",
+    "slide": "",
     "title": "The Power of a Good Portfolio",
     "description":"CVs are so old school. Portfolios, on the other hand, will help you stand out from the crowd, show your uniqueness, and build trust. Here's all you need to know about the unique way of showcasing your work.",
     "track": "",
     "link": "",
     "format": "Day 1",
-    "date": "January 9th, 2021",
-    "timeDuration": "30",
+    "date": "March 20th, 2021",
+    "timeDuration": "15",
     "speakers": [
       113
     ]
   },
   {
     "id": "512",
-    "slide": "https://drive.google.com/open?id=1rgvLdXplq7EVTBUHM9nZVf09QDQHgDD1",
+    "slide": "",
     "title": "You can help your children to Live life by their design and Grow together",
     "description":"In session I will discussing about the Mindset, Skills and Tools essential for one to Live life by their design. How parents and children can grow together?.",
     "track": "",
@@ -166,6 +166,132 @@
     "timeDuration": "30",
     "speakers": [
       113
+    ]
+  },
+  {
+    "id": "513",
+    "slide": "",
+    "title": "Welcome Address",
+    "description":"",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "March 20th, 2021",
+    "timeDuration": "15",
+    "speakers": [
+      123
+    ]
+  },
+  {
+    "id": "514",
+    "slide": "https://docs.google.com/presentation/d/1rqD7C54CdF6qYRH5ZgivI713-yUIYymK-YZk0nGvFw0/edit?usp=sharing&resourcekey=0--36VN7cItoHU2CsNtN7gbQ",
+    "title": "Keynote",
+    "description":"Keynote",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "March 20th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      129
+    ]
+  },
+  {
+    "id": "515",
+    "slide": "",
+    "title": "Little known facts about Speech Technology",
+    "description":"I'll explain how modern Speech systems work and share interesting facts about Speech Technology. See also my older blog post https://towardsdatascience.com/little-known-facts-about-speech-technology-497e5ea47e56",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "March 20th, 2021",
+    "timeDuration": "15",
+    "speakers": [
+      122
+    ]
+  },
+  {
+    "id": "516",
+    "slide": "",
+    "title": "Ice Breakers/ Contests",
+    "description":"",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "March 20th, 2021",
+    "timeDuration": "15",
+    "speakers": [
+      
+    ]
+  },
+  {
+    "id": "517",
+    "slide": "",
+    "title": "Panel Discussion on Entrepreneurship",
+    "description":"",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "March 20th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      115,124,125,118,111
+    ]
+  },
+  {
+    "id": "518",
+    "slide": "",
+    "title": "Reframing your Narrative",
+    "description":"This talk is about demystifying Impostor Syndrome and tips to step up & own our expertise!",
+    "track": "",
+    "link": "",
+    "format": "Day 1",
+    "date": "March 20th, 2021",
+    "timeDuration": "45",
+    "speakers": [
+      101
+    ]
+  },
+  {
+    "id": "519",
+    "slide": "",
+    "title": "Enhancing Core Web Vitals with AMP",
+    "description":"This talk covers the unified guidance for quality signals & the metrics that are essential to delivering a great user experience on the web and helps the developer in making performant solutions for the users. It will also throw some light on the best practices and performance with Accelerated Mobile Pages (AMP).",
+    "track": "",
+    "link": "",
+    "format": "Day 2",
+    "date": "March 21th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      108, 107
+    ]
+  },
+  {
+    "id": "520",
+    "slide": "",
+    "title": "Building apps by leveraging external APIs",
+    "description":"An API is a way of communication between two or more applications, we'll be talking about first and third party APIs and how we can leverage such pre-made ready to use interfaces for building apps on top of them to make something extraordinary! ",
+    "track": "",
+    "link": "",
+    "format": "Day 2",
+    "date": "March 21th, 2021",
+    "timeDuration": "30",
+    "speakers": [
+      120
+    ]
+  },
+  {
+    "id": "521",
+    "slide": "",
+    "title": "Paving the way for the next generation",
+    "description":"How do you fight for getting a seat at the table in your field? How do you make your voice heard? How do you make an impactful contribution to your field? This talk covers the life stories of three prominent Indian women scientists who paved the way and showed us how to do it.",
+    "track": "",
+    "link": "",
+    "format": "Day 2",
+    "date": "March 21th, 2021",
+    "timeDuration": "15",
+    "speakers": [
+      117
     ]
   }
 ]
