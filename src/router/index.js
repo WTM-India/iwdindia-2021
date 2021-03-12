@@ -20,6 +20,11 @@ const routes = [
     name: 'Speakers',
     component: () => import(/* webpackChunkName: "speakersPage" */ '../views/Speakers.vue')
   },
+  {
+    path: '/canvas',
+    name: 'Canvas',
+    component: () => import(/* webpackChunkName: "speakersPage" */ '../views/Canvas.vue')
+  },
   // {
   //   path: '/schedule',
   //   name: 'Schedule',
