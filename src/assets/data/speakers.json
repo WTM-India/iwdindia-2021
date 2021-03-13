@@ -341,16 +341,16 @@
   },
   {
     "id": "122",
-    "name": "Roza Chojnacka",
+    "name": "Shubhi Sareen",
     "company": {
-      "name": "Google",
-      "designation": "Research Engineer"
+      "name": "",
+      "designation": ""
     },
-    "image": "Roza.jpg",
-    "bio": "Roza is a senior Research Engineer working on Automatic Speech Recognition. Prior to work on Speech, she led image recognition and augmented reality projects in Google Lens. She graduated with MSc in Computer Science from the University of Warsaw. Her work resulted in a number of patents and launches in Google Assistant, Google Cloud and Google Lens.",
+    "image": "",
+    "bio": "",
     "social": {
-      "twitter": "https://twitter.com/roza_chojnacka",
-      "linkedin": "https://www.linkedin.com/in/rozachojnacka/"
+      "twitter": "",
+      "linkedin": ""
     },
     "sessionId": [
       515
