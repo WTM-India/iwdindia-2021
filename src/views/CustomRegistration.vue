@@ -7,10 +7,26 @@
       :timeout="snackBarTimeOut"
     />
 
-    <v-container fluid class="mt-4">
+    <v-container fluid class="mt-0 py-0">
+      <v-row justify="center" align="center" class="red grey lighten-5">
+        <v-col md="6" xl="5" class="mb-15 google-font pt-md-10">
+          <p class="" style="font-size:2.5em;">
+              <!-- <span style="color:#424242">{{maindata.eventname}} 2021</span> |  -->
+              <span style="color:#424242">Registration</span>
+            </p>
+          <!-- <h1 class="google-font">Registration</h1> -->
+          <p style="font-size:1.1em">
+              IWD India 2021 is a coming together of women in technology and allies from across the country to celebrate each other and to learn and gain inspiration from many exemplary women who had the courage to create despite the challenging times.
+            
+            </p>
+            <p style="font-size:1.1em">
+              These two days <b>March 20th & 21st, 2021</b> can be enjoyed in the comfort of your homes where we have inspirational speakers, discussions over chat and workshops to help you create amazing assets for yourself!
+            </p>
+        </v-col>
+      </v-row>
       <v-row justify="center" align="center">
-        <v-col md="7" sm="8" lg="5" cols="12">
-          <div style="padding:10px;" class="google-font">
+        <v-col md="7" sm="8" lg="6" xl="5" cols="12" style="margin-top:-80px">
+          <!-- <div style="padding:10px;" class="google-font">
             <p class="" style="font-size:2.0em;">
               <span style="color:#424242">{{maindata.eventname}} 2021</span> | 
               <span style="color:#4285f4">Registration</span>
@@ -22,12 +38,12 @@
             <p style="font-size:1.1em">
               These two days <b>March 20th & 21st, 2021</b> can be enjoyed in the comfort of your homes where we have inspirational speakers, discussions over chat and workshops to help you create amazing assets for yourself!
             </p>
-          </div>
+          </div> -->
 
-          <v-container fluid>
+          <v-container class="pa-5 mb-15" fluid style="background:white;border:1px solid #e0e0e0;border-radius:8px">
             <!-- Google Sign In -->
             <v-row>
-              <v-col md="2" cols="2">
+              <v-col md="2" cols="2" class="">
                 <v-avatar color="#4285f4">
                   <v-icon dark>mdi-account-circle</v-icon>
                 </v-avatar>

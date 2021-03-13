@@ -184,7 +184,7 @@
   },
   {
     "id": "514",
-    "slide": "https://docs.google.com/presentation/d/1rqD7C54CdF6qYRH5ZgivI713-yUIYymK-YZk0nGvFw0/edit?usp=sharing&resourcekey=0--36VN7cItoHU2CsNtN7gbQ",
+    "slide": "",
     "title": "Keynote",
     "description":"Keynote",
     "track": "",
@@ -199,8 +199,8 @@
   {
     "id": "515",
     "slide": "",
-    "title": "Little known facts about Speech Technology",
-    "description":"I'll explain how modern Speech systems work and share interesting facts about Speech Technology. See also my older blog post https://towardsdatascience.com/little-known-facts-about-speech-technology-497e5ea47e56",
+    "title": "Interpretable AI",
+    "description":"",
     "track": "",
     "link": "",
     "format": "Day 1",
