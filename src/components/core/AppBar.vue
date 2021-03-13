@@ -20,19 +20,19 @@
         style="text-decoration: none;"
       >
         <v-img
-          alt="Vuetify Logo"
+          alt="WTM Logo"
           class="shrink mr-2"
           contain
           :src="require('@/assets/img/logo.png')"
-          width="35"
+          width="40"
         />
       </router-link>
     </div>
     <v-toolbar-title class="google-font px-0" style="width: 300px">
       <router-link
         to="/"
-        class="google-font grey--text text--darken-2"
-        style="text-decoration: none; font-size: 120%"
+        class="google-font"
+        style="text-decoration: none; font-size: 120%;color:#5F6368;"
         >
         IWD India 2021
         </router-link
@@ -123,5 +123,12 @@ export default {
 <style>
 .v-toolbar .v-toolbar__content {
       border-bottom: 1px solid rgb(218, 220, 224);
+}
+
+@media only screen and (min-width: 600px) {
+  .v-toolbar .v-toolbar__content {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
 }
 </style>
