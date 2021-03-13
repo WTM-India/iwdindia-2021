@@ -120,4 +120,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+.v-toolbar .v-toolbar__content {
+      border-bottom: 1px solid rgb(218, 220, 224);
+}
+</style>
