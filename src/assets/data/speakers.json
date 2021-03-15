@@ -343,14 +343,14 @@
     "id": "122",
     "name": "Shubhi Sareen",
     "company": {
-      "name": "",
-      "designation": ""
+      "name": "Google",
+      "designation": "Software Engineer"
     },
-    "image": "",
-    "bio": "",
+    "image": "Shubhi.jpeg",
+    "bio": "Shubhi is a software engineer working in Google Bangalore since the last 1 year and 9 months in the Google Docs team. She is working on building and improving the assistive writing features in Google Docs like autocorrect, grammar corrections, language suggestions etc. She works on all parts of the stack including Docs frontend, backend as well as on the quality pieces.",
     "social": {
-      "twitter": "",
-      "linkedin": ""
+      "twitter": "https://twitter.com/shubhi_sareen/",
+      "linkedin": "https://www.linkedin.com/in/shubhi-sareen/"
     },
     "sessionId": [
       515
@@ -377,13 +377,13 @@
     "id": "124",
     "name": "Soumita Basu",
     "company": {
-      "name": "",
-      "designation": ""
+      "name": "Zyenika Inclusive Fashion",
+      "designation": "Founder CEO"
     },
-    "image": "",
-    "bio": "",
+    "image": "Soumita.jpg",
+    "bio": "Soumita Basu is the founder CEO of Zyenika Inclusive Fashion, a company that designs clothes for all body types and physical abilities. Her work at Zyenika has been recognised with the Entrepreneurial India Award, 2021. She is the India Inclusion Fellow, 2020 and recognised as an Industry Disruptor by DO School, Berlin, UNWomen and the European Union. Soumita started her career as a journalist and then specialised as a social development practitioner and researcher, particularly in the domains of livelihoods, governance, and heath. Soumita’s focus has always been on cross-cutting issues like gender, inclusion, and equality. She is waiting for the publication of her reimagination of popular fairytales with a feminist lens. Soumita has earned a PG Diploma in Journalism, from Asian College of Journalism, and a Masters in Development Studies from ISS, The Hague, Erasmus University Rotterdam. She was awarded a fellow position at the Netherlands Fellowship Programme.",
     "social": {
-      "twitter": "",
+      "twitter": "https://twitter.com/soumita_aalo/",
       "linkedin": ""
     },
     "sessionId": [
@@ -394,14 +394,14 @@
     "id": "125",
     "name": "Vaishnavi Reddy",
     "company": {
-      "name": "",
-      "designation": ""
+      "name": "Docturnal",
+      "designation": "CTO & Co-founder"
     },
-    "image": "",
-    "bio": "",
+    "image": "Vaishnavi.jpg",
+    "bio": "A techpreneur, passionate about solving healthcare problems using AI. ",
     "social": {
-      "twitter": "",
-      "linkedin": ""
+      "twitter": "https://twitter.com/whyshreddy/",
+      "linkedin": "https://www.linkedin.com/in/vaishnavi-reddy-gutha-418934208/"
     },
     "sessionId": [
       517
