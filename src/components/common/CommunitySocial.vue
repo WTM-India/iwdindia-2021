@@ -38,7 +38,7 @@
       <span>YouTube</span>
     </v-tooltip>
 
-    <!-- <v-tooltip bottom>
+    <v-tooltip bottom>
       <template v-slot:activator="{ on }">
         <v-btn
           text
@@ -47,7 +47,7 @@
           class="mx-2"
           color="#5f6368"
           rel="noreferrer"
-          href="https://www.instagram.com/"
+          href="https://www.instagram.com/gdg.india/"
           target="_blank"
           slot="activator"
         >
@@ -55,9 +55,9 @@
         </v-btn>
       </template>
       <span>Instagram</span>
-    </v-tooltip> -->
+    </v-tooltip>
 
-    <!-- <v-tooltip bottom>
+     <v-tooltip bottom>
       <template v-slot:activator="{ on }">
         <v-btn
           text
@@ -66,7 +66,7 @@
           class="mx-2"
           color="#5f6368"
           rel="noreferrer"
-          href="https://www.linkedin.com/"
+          href="https://www.linkedin.com/in/iwd-india-a46a80206/"
           target="_blank"
           slot="activator"
         >
@@ -74,7 +74,7 @@
         </v-btn>
       </template>
       <span>Linkedin</span>
-    </v-tooltip> -->
+    </v-tooltip>
 
     <!-- <v-tooltip bottom>
       <template v-slot:activator="{ on }">
