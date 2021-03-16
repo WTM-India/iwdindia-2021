@@ -336,7 +336,7 @@
       "linkedin": "https://www.linkedin.com/in/ramya-kappagantu-a588a6162/"
     },
     "sessionId": [
-      
+      516
     ]
   },
   {
@@ -473,6 +473,74 @@
     },
     "sessionId": [
       514
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Aditi Soni",
+    "company": {
+      "name": "Consultadd Inc.",
+      "designation": "Software Engineer"
+    },
+    "image": "Aditi.jpeg",
+    "bio": "Aditi is a community lover and a passionate developer. She keeps contributing to various technical communities as an organizer or a speaker. As a personal interest, she develops mobile Applications. She is also a Google India Udacity Android Developers Nanodegree Scholar. Reading about new inventions and breakthroughs keeps her motivated. She always tries to empower women with the power of community to help women achieve the things they aim for. Happiness is a choice and she strongly believes that one should always keep the child inside them alive.",
+    "social": {
+      "twitter": "https://twitter.com/soniaditi380",
+      "linkedin": "https://www.linkedin.com/in/aditi-soni/"
+    },
+    "sessionId": [
+      516
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Priyal Jain",
+    "company": {
+      "name": "Buyogo GMBH",
+      "designation": "Frontend Developer"
+    },
+    "image": "Priyal.png",
+    "bio": "She is a UI developer and keen to learn new things, explore about new technologies and challenges. Also, love to contribute in open source communities. Enthusiast tech lover, community lover, dreamer and achiever.",
+    "social": {
+      "twitter": "https://twitter.com/priyaljain919/",
+      "linkedin": "https://www.linkedin.com/in/priyaljain919/"
+    },
+    "sessionId": [
+      522
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Vandana Pv",
+    "company": {
+      "name": "Titan",
+      "designation": "Conversational AI Consultant at Titan"
+    },
+    "image": "Vandana.jpg",
+    "bio": "Vandana is a lover of Arts, Design and a Conversational AI Lead who's building the next best AI Solutions. She's always passionate about sharing her learnings with the community which made her an Ambassador of WTM Hyderabad. Currently, she's working at Titan as a Conversational AI Consultant, in building AI products. Always try to explore new things and discover yourself every single day to shape you in a better way is what she believes. And she'll try to grab as many opportunities as she can to help others even in her tight schedule. ",
+    "social": {
+      "twitter": "https://twitter.com/VandanaPv/",
+      "linkedin": "https://www.linkedin.com/in/vandanapv/"
+    },
+    "sessionId": [
+      
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Riya Guha Thakurta",
+    "company": {
+      "name": "Johnson Controls",
+      "designation": "Associate Software Engineer"
+    },
+    "image": "riya.jpg",
+    "bio": "Riya is an Associate Software Engineer working with Johnson Controls. She believes in contributing towards community and sharing knowledge with others to solve their problems, which leads her to serve for her regional community as a WomenTechmakers Ambassador and Co-organizer of Google Developers Group Kolkata.Being an Intel Software Innovator she looks forward to share her expertise which thrives to innovation and would be helpful for tech enthusiasts to build solution in IoT.She love programming and applying her skills to solve real life problems and make life smarter.",
+    "social": {
+      "twitter": "https://twitter.com/riyathakurta",
+      "linkedin": "https://www.linkedin.com/in/riya-guha-thakurta"
+    },
+    "sessionId": [
+      522
     ]
   }
 ]
