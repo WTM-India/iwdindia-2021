@@ -429,5 +429,19 @@
       "linkedin": "https://www.linkedin.com/in/lakshyasi/",
       "website": ""
     }
+  },
+  {
+    "name": "Usha Ramani Vemuru",
+    "community": {
+      "name": "GURUJADA",
+      "designation": "CEO and Co- Founder"
+    },
+    "image": "usha.jpg",
+    "bio": "",
+    "social": {
+      "twitter": "https://twitter.com/vusharamani",
+      "linkedin": "https://www.linkedin.com/in/usha-ramani-vemuru-66286723/",
+      "website": ""
+    }
   }
 ]
