@@ -425,11 +425,11 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <v-btn
                   outlined
+                  to="/badge"
+                  rel="noreferrer"
                   color="#4285f4"
                   style="text-transform: capitalize;border-radius:5px;border-color:#e0e0e0"
                   class="google-font mt-2"
-                  rel="noreferrer"
-                  target="_blank"
                 >
                   <v-icon size="20px" left>mdi-inbox</v-icon>Generate Profile Badge
                 </v-btn>
