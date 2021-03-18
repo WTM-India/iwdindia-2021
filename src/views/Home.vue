@@ -5,6 +5,9 @@
         <v-col cols="12" md="10" lg="10" sm="10" class="my-2">
           <Hero class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
         </v-col>
+         <v-col cols="12" md="10" lg="10" sm="10">
+            <Model v-model="showModel" />
+         </v-col>
       </v-row>
     </v-container>
     <!-- <breakImage colorCode="#f8f9fa" height="120px" /> -->
@@ -58,12 +61,14 @@
 
 <script>
 import Hero from /* webpackChunkName: "hero", webpackPreload: true */ "@/components/home/Hero"
+import Model from /* webpackChunkName: "hero", webpackPreload: true */ "@/components/home/Model"
 import SocialInfo from /* webpackChunkName: "homecommunitysocial", webpackPreload: true */'@/components/common/CommunitySocial'
 import Faqs from /* webpackChunkName: "homeFaqs", webpackPreload: true */ '@/components/home/Faqs'
 export default {
   name: "Home",
   components: {
     Hero,
+    Model,
     About: () => import(/* webpackChunkName: "homeabout", webpackPreload: true */ "@/components/home/about"),
     // breakImage: () => import(/* webpackChunkName: "homebreakimage", webpackPreload: true */ '@/components/common/breakImage'),
     Theme: () => import(/* webpackChunkName: "homeTheme", webpackPreload: true */ '../components/home/Theme'),
@@ -74,6 +79,12 @@ export default {
     // Faqs: () => import(/* webpackChunkName: "homeFaqs", webpackPreload: true */ '@/components/home/Faqs'),
     // Speakers: () => import(/* webpackChunkName: "homeSpeakers", webpackPreload: true */'@/components/home/Speakers'),
     // Schedule: () => import(/* webpackChunkName: "homeSchedule", webpackPreload: true */'@/components/home/Schedule'),
+  },
+  data: () => ({
+    showModel: false,
+  }),
+  mounted() {
+    this.showModel = !(JSON.parse(localStorage.model_disabled || false));
   },
 };
 </script>
