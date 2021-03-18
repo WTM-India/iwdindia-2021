@@ -2,14 +2,16 @@
     <v-dialog v-model="show" width="600" persistent>
         <v-card>
             <v-card-title class="google-font">
-                <h2>Join live streaming</h2>
+                <h2>Welcome to International Women’s Day India Summit 2021</h2>
             </v-card-title>
             <v-container>
               <v-card-text>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis rutrum semper ligula, vitae suscipit ex tincidunt eu. Morbi lacinia in arcu a tempus. Sed dignissim magna vel velit rutrum, et iaculis lorem posuere. Duis maximus blandit arcu non condimentum. Sed fringilla, nibh sit amet ultricies bibendum, quam ante tempor eros, sed congue purus est in est. Morbi vitae lacus a nisl eleifend dignissim eu eget nulla. Aliquam erat leo, interdum a leo sit amet, consequat feugiat nunc. Maecenas sodales lorem vel lorem fringilla euismod. Cras in ante pharetra, sollicitudin turpis sed, ullamcorper arcu. Aliquam aliquam nibh vitae lectus commodo efficitur. In id neque nulla. Quisque porta ante sed eros euismod semper in a turpis. In lacinia malesuada quam, sed dictum eros tristique id. Vivamus tempus, nulla sed consectetur ultricies, turpis lectus molestie elit, id vestibulum enim lacus non dui.</p>
+                <p>
+                  Join us at the International Women’s Day Summit using this link and get ready to witness the most exciting event put together for you by the Women Techmakers India community. 
+                </p>
               </v-card-text>
               <v-btn
-                to="registration"
+                to="/registration"
                 dark
                 color="#3D7FF5"
                 depressed
@@ -72,6 +74,7 @@ export default {
   methods: {
     close: function() {
       localStorage.model_disabled = true;
+      localStorage.setItem('disabled', true);
       this.show = false
     }
   },
