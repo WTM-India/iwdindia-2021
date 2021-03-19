@@ -55,13 +55,14 @@
           target="_blank"
           style="
             text-transform: capitalize;
-            border-radius: 5px;
-            font-size:110%;
-            padding: 00% 4%;
+            font-size:105%;
+            padding: 00% 3%;
           "
-          href="https://www.youtube.com/watch?v=Q1jkscA6u7I"
-          class="google-font mr-3 mb-3 mt-6"
-          >Watch Now</v-btn
+          href="https://bit.ly/iwdindia01"
+          class="google-font mr-3 mb-3 "
+          >
+          <v-icon left>mdi mdi-youtube</v-icon>
+          Watch Now</v-btn
         > -->
         <v-btn
           to="registration"
