@@ -5,9 +5,9 @@
         <v-col cols="12" md="10" lg="10" sm="10" class="my-2">
           <Hero class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
         </v-col>
-         <v-col cols="12" md="10" lg="10" sm="10">
+         <!-- <v-col cols="12" md="10" lg="10" sm="10">
             <Model v-model="showModel" />
-         </v-col>
+         </v-col> -->
       </v-row>
     </v-container>
     <!-- <breakImage colorCode="#f8f9fa" height="120px" /> -->
@@ -68,7 +68,7 @@ export default {
   name: "Home",
   components: {
     Hero,
-    Model,
+    // Model,
     About: () => import(/* webpackChunkName: "homeabout", webpackPreload: true */ "@/components/home/about"),
     // breakImage: () => import(/* webpackChunkName: "homebreakimage", webpackPreload: true */ '@/components/common/breakImage'),
     Theme: () => import(/* webpackChunkName: "homeTheme", webpackPreload: true */ '../components/home/Theme'),
@@ -84,7 +84,7 @@ export default {
     showModel: false,
   }),
   mounted() {
-    this.showModel = !(JSON.parse(localStorage.model_disabled || false));
+    // this.showModel = !(JSON.parse(localStorage.model_disabled || false));
   },
 };
 </script>
