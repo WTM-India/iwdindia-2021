@@ -443,5 +443,19 @@
       "linkedin": "https://www.linkedin.com/in/usha-ramani-vemuru-66286723/",
       "website": ""
     }
+  },
+  {
+    "name": "Syed Adil Hassan",
+    "community": {
+      "name": "Google",
+      "designation": "Marketing specialist"
+    },
+    "image": "adil.jpeg",
+    "bio": "Adil is a Marketing specialist working with Google. With 8+years of experience in marketing and communications, he has worked with Intel Technology as a community manager and also been associated with brands like Nike , Volvo , Fujitsu , IBM , Microsoft , Dell etc in his  portfolio.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/adil8812",
+      "twitter": "https://twitter.com/sdhassan",
+      "website": ""
+    }
   }
 ]
