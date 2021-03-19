@@ -542,5 +542,22 @@
     "sessionId": [
       522
     ]
+  },
+  {
+    "id": "134",
+    "name": "Ananya R",
+    "company": {
+      "name": "Accenture",
+      "designation": "Associate Software Engineer"
+    },
+    "image": "ananya-r.jpg",
+    "bio": "Ananya is an Associate software engineer who has a keen interest in design and development.  .She is the WTM ambassador and Co-organizer of GDG Trivandrum and also an #IamRemarkable facilitator. She is a responsible volunteer who takes part in different community programs with aplomb. She is an opportunist & optimistic personality who loves to explore & learn.",
+    "social": {
+      "twitter": "https://twitter.com/AnanyaR15",
+      "linkedin": "https://www.linkedin.com/in/ananya-r"
+    },
+    "sessionId": [
+      
+    ]
   }
 ]
