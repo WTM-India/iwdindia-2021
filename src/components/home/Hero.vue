@@ -47,7 +47,7 @@
             #{{ item }}
           </v-chip>
         </p>
-        <!-- <v-btn
+        <v-btn
           dark
           color="#FF0000"
           depressed
@@ -63,7 +63,7 @@
           >
           <v-icon left>mdi mdi-youtube</v-icon>
           Watch Now</v-btn
-        > -->
+        >
         <v-btn
           to="registration"
           dark
