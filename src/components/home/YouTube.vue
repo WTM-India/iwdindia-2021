@@ -58,7 +58,7 @@ export default {
       {
         day: "#IWDIndia2021​ | Day 2",
         date: "March 21",
-        type: "Reminde Now",
+        type: "Watch Now",
         link: "https://bit.ly/iwdindia02",
         time: "03:00 PM - 07:00 PM (IST)",
         img: "https://img.youtube.com/vi/ru5hvNE2WNk/mqdefault.jpg",

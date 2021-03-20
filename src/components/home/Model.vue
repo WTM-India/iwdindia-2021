@@ -21,6 +21,24 @@
             <li>Amazing swags and certificates of participation!</li>
           </ul>
           <br><br>
+        
+        <v-btn
+          dark
+          color="#FF0000"
+          depressed
+          large
+          target="_blank"
+          style="
+            text-transform: capitalize;
+            font-size:105%;
+            padding: 00% 3%;
+          "
+          href="https://bit.ly/iwdindia02"
+          class="google-font mr-3 mb-3 "
+          >
+          <v-icon left>mdi mdi-youtube</v-icon>
+          Watch Now</v-btn
+        >
         <v-btn
           to="/registration"
           dark
@@ -36,23 +54,6 @@
         >
           Register Now!
         </v-btn>
-        <v-btn
-          dark
-          color="#FF0000"
-          depressed
-          large
-          target="_blank"
-          style="
-            text-transform: capitalize;
-            font-size:105%;
-            padding: 00% 3%;
-          "
-          href="https://bit.ly/iwdindia01"
-          class="google-font mr-3 mb-3 "
-          >
-          <v-icon left>mdi mdi-youtube</v-icon>
-          Watch Now</v-btn
-        >
       </v-card-text>
       <v-divider></v-divider>
 
