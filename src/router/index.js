@@ -50,11 +50,11 @@ const routes = [
       name: 'Organizer Badge',
       component: () => import(/* webpackChunkName: "badge", webpackPreload: true */ '../views/organizer.vue')
     },
-  {
-    path: '/registration',
-    name: 'Registraton',
-    component: () => import(/* webpackChunkName: "registrationPage", webpackPreload: true */ '../views/CustomRegistration.vue')
-  },
+  // {
+  //   path: '/registration',
+  //   name: 'Registraton',
+  //   component: () => import(/* webpackChunkName: "registrationPage", webpackPreload: true */ '../views/CustomRegistration.vue')
+  // },
   {
     path: '/coc',
     name: 'CodeofConduct',

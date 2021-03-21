@@ -5,9 +5,9 @@
         <v-col cols="12" md="10" lg="10" sm="10" class="my-2">
           <Hero class="mt-md-8 mb-md-0 my-xs-0 py-xs-0" />
         </v-col>
-        <v-col cols="12" md="10" lg="10" sm="10">
+        <!-- <v-col cols="12" md="10" lg="10" sm="10">
           <Model v-model="showModel" />
-        </v-col>
+        </v-col> -->
       </v-row>
     </v-container>
 
@@ -109,7 +109,7 @@
 
 <script>
 import Hero from /* webpackChunkName: "hero", webpackPreload: true */ "@/components/home/Hero";
-import Model from /* webpackChunkName: "hero", webpackPreload: true */ "@/components/home/Model";
+// import Model from /* webpackChunkName: "hero", webpackPreload: true */ "@/components/home/Model";
 import SocialInfo from /* webpackChunkName: "homecommunitysocial", webpackPreload: true */ "@/components/common/CommunitySocial";
 import Faqs from /* webpackChunkName: "homeFaqs", webpackPreload: true */ "@/components/home/Faqs";
 import YouTube from "../components/home/YouTube";
@@ -118,7 +118,7 @@ export default {
   components: {
     YouTube,
     Hero,
-    Model,
+    // Model,
     About: () =>
       import(
         /* webpackChunkName: "homeabout", webpackPreload: true */ "@/components/home/about"
@@ -135,10 +135,10 @@ export default {
     Faqs,
   },
   data: () => ({
-    showModel: false,
+    // showModel: false,
   }),
   mounted() {
-    this.showModel = !JSON.parse(localStorage.model_disabled || false);
+    // this.showModel = !JSON.parse(localStorage.model_disabled || false);
   },
 };
 </script>

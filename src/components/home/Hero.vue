@@ -65,8 +65,10 @@
           Watch Now</v-btn
         >
         <v-btn
-          to="registration"
+          href="https://feedback.iwdindia.in/"
           dark
+          target="_blank"
+          rel="noreferrer"
           color="#3D7FF5"
           depressed
           large
@@ -77,7 +79,7 @@
           "
           class="google-font mr-3 mb-3 "
         >
-          Register Now!
+          Feedback
         </v-btn>
         <v-btn
           dark

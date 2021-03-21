@@ -52,15 +52,15 @@ export default new Vuex.Store({
           showBottomNav: false,
         },
       },
-      {
-        text: "Register",
-        to: "/registration",
-        icon: "mdi-account-circle-outline",
-        meta: {
-          showToolbar: false,
-          showBottomNav: true,
-        },
-      },
+      // {
+      //   text: "Register",
+      //   to: "/registration",
+      //   icon: "mdi-account-circle-outline",
+      //   meta: {
+      //     showToolbar: false,
+      //     showBottomNav: true,
+      //   },
+      // },
       // {
       //   text: "Live",
       //   to: "/Live",

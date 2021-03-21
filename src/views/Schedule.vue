@@ -75,7 +75,7 @@ export default {
     ScheduleDetails
   },
   data: () => ({
-    model: "day1",
+    model: "day2",
     ScheduleData: [],
   }),
   mounted() {
