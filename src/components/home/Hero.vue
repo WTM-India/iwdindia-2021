@@ -64,7 +64,7 @@
           <v-icon left>mdi mdi-youtube</v-icon>
           Watch Now</v-btn
         >
-        <v-btn
+        <!-- <v-btn
           href="https://feedback.iwdindia.in/"
           dark
           target="_blank"
@@ -80,7 +80,7 @@
           class="google-font mr-3 mb-3 "
         >
           Feedback
-        </v-btn>
+        </v-btn> -->
         <v-btn
           dark
           color="#3D7FF5"
