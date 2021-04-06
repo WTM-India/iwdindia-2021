@@ -30,7 +30,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Contributors | Aura 3.0
 <b>Maintainer:</b> [Vrijraj Singh](https://github.com/vrijraj) <br>
-<b>Developers:</b> [Vrijraj Singh](https://github.com/vrijraj) &  [Bharat Agarwal](https://github.com/bharatagsrwal) 
+<b>Contributors:</b> [Dhara Vihol](https://github.com/Dhara159), [Priyal Jain](https://github.com/priyaljain919), [Poornima Sudha](https://github.com/poornimasudha) and [Varsha Jaiswal](https://github.com/Varsha-Jaiswal)<br>
+<b>Developers of Project Aura:</b> [Vrijraj Singh](https://github.com/vrijraj) &  [Bharat Agarwal](https://github.com/bharatagsrwal) 
+
 
 ## LICENSE
 Check out the developer [LICENSE](https://github.com/gdg-x/aura/blob/master/LICENSE)
