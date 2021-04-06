@@ -5,12 +5,7 @@ import "firebase/performance";
 import "firebase/messaging";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBhuefIeNSIp-MptPexZrOPdpZ0L2oxaak",
-  authDomain: "iwd-india-2021.firebaseapp.com",
-  projectId: "iwd-india-2021",
-  storageBucket: "iwd-india-2021.appspot.com",
-  messagingSenderId: "169650240127",
-  appId: "1:169650240127:web:99682d87dcd1e78f615d4a"
+  // Firebase Config File
 };
 
 firebase.initializeApp(firebaseConfig);
